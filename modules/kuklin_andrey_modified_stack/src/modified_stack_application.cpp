@@ -9,7 +9,6 @@
 #include "../include/modified_stack.h"
 
 std::string ModifiedStackApp::operator()(int argc, const char** argv) {
-  std::ostringstream os;
   if (argc == 1) {
     return this->argument_error();
   }
