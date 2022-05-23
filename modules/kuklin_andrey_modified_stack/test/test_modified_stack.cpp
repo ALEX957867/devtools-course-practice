@@ -4,6 +4,65 @@
 
 #include "include/modified_stack.h"
 
+TEST(test, test1) {
+  ModifiedStack source;
+  ModifiedStack source2(source);
+  source.Push(1);
+  source.Push(2);
+  //source.showmstack();
+  ModifiedStack copy = std::move(source);
+  //copy.showmstack();
+  //source.showmstack();
+  ASSERT_EQ(source, source2);
+}
+TEST(test, test2) {
+  ModifiedStack source;
+  source.Push(1);
+  source.Push(2);
+  ModifiedStack copy2(source);
+  ModifiedStack copy = std::move(source);
+  ASSERT_EQ(copy, copy2);
+}
+TEST(test, test3) {
+  ModifiedStack source;
+  ModifiedStack source2(source);
+  source.Push(1);
+  source.Push(2);
+  ModifiedStack copy;
+  copy = std::move(source);
+  ASSERT_EQ(source, source2);
+}
+
+TEST(test, test4) {
+  ModifiedStack source;
+  source.Push(1);
+  source.Push(2);
+  ModifiedStack copy2(source);
+  ModifiedStack copy;
+  copy = std::move(source);
+  ASSERT_EQ(copy, copy2);
+}
+
+TEST(test, test5) {
+  ModifiedStack source;
+  source.Push(1);
+  source.Push(2);
+  ModifiedStack copy2(source);
+  ModifiedStack copy(std::move(source));
+  //copy = std::move(source);
+  ASSERT_EQ(copy, copy2);
+}
+
+TEST(test, test6) {
+  ModifiedStack source;
+  source.Push(1);
+  source.Push(2);
+  ModifiedStack copy2;
+  ModifiedStack copy(std::move(source));
+  // copy = std::move(source);
+  ASSERT_EQ(source, copy2);
+}
+
 TEST(kuklin_andrey_modified_stack,
      can_create_modified_stack_with_default_param) {
   ASSERT_NO_THROW(ModifiedStack());

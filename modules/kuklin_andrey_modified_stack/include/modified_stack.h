@@ -4,7 +4,7 @@
 #define MODULES_KUKLIN_ANDREY_MODIFIED_STACK_INCLUDE_MODIFIED_STACK_H_
 
 #include <utility>
-
+#include<iostream>
 using std::size_t;
 
 class ModifiedStack {
@@ -16,6 +16,7 @@ class ModifiedStack {
  public:
   explicit ModifiedStack(size_t _maxSize = 10);
   explicit ModifiedStack(const ModifiedStack& mstack);
+  ModifiedStack(ModifiedStack&& mstack);
   ~ModifiedStack();
 
   bool Empty() const;
@@ -26,8 +27,10 @@ class ModifiedStack {
   size_t Size() const;
   void Clear();
   int MinElem() const;
+  //void showmstack();
 
   ModifiedStack& operator=(const ModifiedStack& mstack);
+  ModifiedStack& operator=(ModifiedStack&& mstack);
   bool operator==(const ModifiedStack& mstack) const;
   bool operator!=(const ModifiedStack& mstack) const;
 };

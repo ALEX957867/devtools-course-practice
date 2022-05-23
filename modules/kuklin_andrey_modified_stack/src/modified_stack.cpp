@@ -21,6 +21,15 @@ ModifiedStack::ModifiedStack(const ModifiedStack& mstack)
   for (size_t i = 0; i < size; ++i) mas[i] = mstack.mas[i];
 }
 
+ModifiedStack::ModifiedStack(ModifiedStack&& mstack)
+    : size(mstack.size), maxSize(mstack.maxSize) {
+  size = mstack.size;
+  mas = new std::pair<int, int>[maxSize];
+  for (size_t i = 0; i < size; ++i) mas[i] = mstack.mas[i];
+  mstack.mas = nullptr;
+  mstack.size = mstack.maxSize = 0;
+}
+
 bool ModifiedStack::Empty() const {
   return size == 0;
 }
@@ -50,8 +59,9 @@ void ModifiedStack::Pop() {
 }
 
 size_t ModifiedStack::Size() const {
-  return size;
-}
+  return size; }
+
+
 
 void ModifiedStack::Clear() {
   size = 0;
@@ -86,6 +96,17 @@ ModifiedStack& ModifiedStack::operator=(const ModifiedStack& mstack) {
   return *this;
 }
 
+ModifiedStack& ModifiedStack::operator=(ModifiedStack&& mstack) {
+  delete mas;
+  mas = new std::pair<int, int>[maxSize];
+  size = mstack.size;
+  maxSize = mstack.maxSize;
+  for (size_t i = 0; i < size; ++i) mas[i] = mstack.mas[i];
+  mstack.mas = nullptr;
+  mstack.size = mstack.maxSize = 0;
+  return *this;
+}
+
 bool ModifiedStack::operator==(const ModifiedStack& mstack) const {
   if (this != &mstack) {
     if (size != mstack.size) return false;
@@ -99,3 +120,7 @@ bool ModifiedStack::operator==(const ModifiedStack& mstack) const {
 bool ModifiedStack::operator!=(const ModifiedStack& mstack) const {
   return !(*this == mstack);
 }
+//void ModifiedStack::showmstack() {
+//  for (int i = 0; i < Size(); i++) std::cout << mas[i].first<<" ";
+//  if (Size() == 0) std::cout << "#";
+//}
