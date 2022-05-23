@@ -1,0 +1,7 @@
+﻿  Building Custom Rule C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/myasnikova_pseudographics/src/CMakeLists.txt
+  myasnikova_pseudographics.cpp
+C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\myasnikova_pseudographics\src\myasnikova_pseudographics.cpp(62,35): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  myasnikova_pseudographics_app.cpp
+C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\myasnikova_pseudographics\src\myasnikova_pseudographics_app.cpp(30,34): warning C4101: e: неиспользованная локальная переменная
+  Создание кода...
+  lib_myasnikova_pseudographics.vcxproj -> C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\lib\myasnikova_pseudographics.lib

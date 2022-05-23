@@ -1,0 +1,30 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/lakhov-statistics/test/test_main.cpp",
+			"labels" : 
+			[
+				"lakhov-statistics",
+				"Test"
+			]
+		},
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/lakhov-statistics/test/test_stohastic_variable.cpp",
+			"labels" : 
+			[
+				"lakhov-statistics",
+				"Test"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"lakhov-statistics",
+			"Test"
+		],
+		"name" : "test_lakhov-statistics"
+	}
+}

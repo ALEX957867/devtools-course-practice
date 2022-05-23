@@ -1,0 +1,30 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/elanski_alexandr_Euler_function/test/main.cpp",
+			"labels" : 
+			[
+				"elanski_alexandr_Euler_function",
+				"Test"
+			]
+		},
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/elanski_alexandr_Euler_function/test/test.cpp",
+			"labels" : 
+			[
+				"elanski_alexandr_Euler_function",
+				"Test"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"elanski_alexandr_Euler_function",
+			"Test"
+		],
+		"name" : "test_elanski_alexandr_Euler_function"
+	}
+}

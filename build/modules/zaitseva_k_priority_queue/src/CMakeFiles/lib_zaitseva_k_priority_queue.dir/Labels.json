@@ -1,0 +1,30 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/zaitseva_k_priority_queue/src/priority_queue.cpp",
+			"labels" : 
+			[
+				"zaitseva_k_priority_queue",
+				"Library"
+			]
+		},
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/zaitseva_k_priority_queue/include/priority_queue.h",
+			"labels" : 
+			[
+				"zaitseva_k_priority_queue",
+				"Library"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"zaitseva_k_priority_queue",
+			"Library"
+		],
+		"name" : "lib_zaitseva_k_priority_queue"
+	}
+}

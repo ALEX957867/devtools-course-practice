@@ -1,0 +1,30 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/kamenev_hanoi_tower/test/test_hanoi_tower.cpp",
+			"labels" : 
+			[
+				"kamenev_hanoi_tower",
+				"Test"
+			]
+		},
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/kamenev_hanoi_tower/test/test_main.cpp",
+			"labels" : 
+			[
+				"kamenev_hanoi_tower",
+				"Test"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"kamenev_hanoi_tower",
+			"Test"
+		],
+		"name" : "test_kamenev_hanoi_tower"
+	}
+}

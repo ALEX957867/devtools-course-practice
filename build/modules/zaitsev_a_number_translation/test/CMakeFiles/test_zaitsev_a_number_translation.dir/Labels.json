@@ -1,0 +1,30 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/zaitsev_a_number_translation/test/test_main.cpp",
+			"labels" : 
+			[
+				"zaitsev_a_number_translation",
+				"Test"
+			]
+		},
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/zaitsev_a_number_translation/test/test_number_translation.cpp",
+			"labels" : 
+			[
+				"zaitsev_a_number_translation",
+				"Test"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"zaitsev_a_number_translation",
+			"Test"
+		],
+		"name" : "test_zaitsev_a_number_translation"
+	}
+}

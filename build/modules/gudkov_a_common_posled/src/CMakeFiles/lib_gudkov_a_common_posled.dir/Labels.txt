@@ -1,0 +1,16 @@
+# Target labels
+ gudkov_a_common_posled
+ Library
+# Source files and their labels
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/gudkov_a_common_posled/src/application.cpp
+ gudkov_a_common_posled
+ Library
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/gudkov_a_common_posled/src/gudkov_a_common_posled.cpp
+ gudkov_a_common_posled
+ Library
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/gudkov_a_common_posled/include/application.h
+ gudkov_a_common_posled
+ Library
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/gudkov_a_common_posled/include/gudkov_a_common_posled.h
+ gudkov_a_common_posled
+ Library

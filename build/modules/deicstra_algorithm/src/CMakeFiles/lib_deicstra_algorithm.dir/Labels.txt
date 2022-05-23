@@ -1,0 +1,10 @@
+# Target labels
+ deicstra_algorithm
+ Library
+# Source files and their labels
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/deicstra_algorithm/src/ershov_alexey_deicstra_algorithm.cpp
+ deicstra_algorithm
+ Library
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/deicstra_algorithm/include/ershov_alexey_deicstra_algorithm.h
+ deicstra_algorithm
+ Library

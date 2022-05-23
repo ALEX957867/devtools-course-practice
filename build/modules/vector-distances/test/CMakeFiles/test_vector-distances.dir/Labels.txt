@@ -1,0 +1,10 @@
+# Target labels
+ vector-distances
+ Test
+# Source files and their labels
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/vector-distances/test/test_main.cpp
+ vector-distances
+ Test
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/vector-distances/test/test_vector_distances.cpp
+ vector-distances
+ Test

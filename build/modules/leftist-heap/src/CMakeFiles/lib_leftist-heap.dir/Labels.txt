@@ -1,0 +1,16 @@
+# Target labels
+ leftist-heap
+ Library
+# Source files and their labels
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/leftist-heap/src/leftist_heap.cpp
+ leftist-heap
+ Library
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/leftist-heap/src/leftist_heap_application.cpp
+ leftist-heap
+ Library
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/leftist-heap/include/leftist_heap.h
+ leftist-heap
+ Library
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/leftist-heap/include/leftist_heap_application.h
+ leftist-heap
+ Library

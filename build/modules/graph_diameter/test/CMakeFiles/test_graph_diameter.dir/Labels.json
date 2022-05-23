@@ -1,0 +1,30 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/graph_diameter/test/graph_diameter_test.cpp",
+			"labels" : 
+			[
+				"graph_diameter",
+				"Test"
+			]
+		},
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/graph_diameter/test/test_main.cpp",
+			"labels" : 
+			[
+				"graph_diameter",
+				"Test"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"graph_diameter",
+			"Test"
+		],
+		"name" : "test_graph_diameter"
+	}
+}

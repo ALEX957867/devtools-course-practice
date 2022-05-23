@@ -1,0 +1,22 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/miheev_ivan_d-ary_heap/application/application.cpp",
+			"labels" : 
+			[
+				"miheev_ivan_d-ary_heap",
+				"Application"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"miheev_ivan_d-ary_heap",
+			"Application"
+		],
+		"name" : "app_miheev_ivan_d-ary_heap"
+	}
+}

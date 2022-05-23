@@ -1,0 +1,16 @@
+# Target labels
+ samoiluk_a_stack
+ Library
+# Source files and their labels
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/samoiluk_a_stack/src/stack.cpp
+ samoiluk_a_stack
+ Library
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/samoiluk_a_stack/src/stack_application.cpp
+ samoiluk_a_stack
+ Library
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/samoiluk_a_stack/include/stack.h
+ samoiluk_a_stack
+ Library
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/samoiluk_a_stack/include/stack_application.h
+ samoiluk_a_stack
+ Library

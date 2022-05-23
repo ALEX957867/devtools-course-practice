@@ -1,0 +1,7 @@
+# Target labels
+ alimov_mike_ceacer_cifir
+ Application
+# Source files and their labels
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/alimov_mike_ceacer_cifir/application/application.cpp
+ alimov_mike_ceacer_cifir
+ Application

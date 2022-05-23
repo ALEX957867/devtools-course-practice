@@ -1,0 +1,10 @@
+# Target labels
+ zaitsev_a_number_translation
+ Test
+# Source files and their labels
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/zaitsev_a_number_translation/test/test_main.cpp
+ zaitsev_a_number_translation
+ Test
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/zaitsev_a_number_translation/test/test_number_translation.cpp
+ zaitsev_a_number_translation
+ Test

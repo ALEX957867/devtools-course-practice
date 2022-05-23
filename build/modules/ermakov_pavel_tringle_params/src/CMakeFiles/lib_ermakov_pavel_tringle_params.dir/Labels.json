@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/ermakov_pavel_tringle_params/src/ermakov_pavel_tringle_params.cpp",
+			"labels" : 
+			[
+				"ermakov_pavel_tringle_params",
+				"Library"
+			]
+		},
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/ermakov_pavel_tringle_params/src/triangle_app.cpp",
+			"labels" : 
+			[
+				"ermakov_pavel_tringle_params",
+				"Library"
+			]
+		},
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/ermakov_pavel_tringle_params/include/ermakov_pavel_tringle_params.h",
+			"labels" : 
+			[
+				"ermakov_pavel_tringle_params",
+				"Library"
+			]
+		},
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/ermakov_pavel_tringle_params/include/triangle_app.h",
+			"labels" : 
+			[
+				"ermakov_pavel_tringle_params",
+				"Library"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ermakov_pavel_tringle_params",
+			"Library"
+		],
+		"name" : "lib_ermakov_pavel_tringle_params"
+	}
+}

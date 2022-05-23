@@ -1,0 +1,10 @@
+# Target labels
+ yashin_kirill_binary_search
+ Test
+# Source files and their labels
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/yashin_kirill_binary_search/test/test_binary_search.cpp
+ yashin_kirill_binary_search
+ Test
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/yashin_kirill_binary_search/test/test_main.cpp
+ yashin_kirill_binary_search
+ Test

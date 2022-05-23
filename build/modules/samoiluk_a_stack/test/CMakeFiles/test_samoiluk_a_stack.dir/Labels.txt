@@ -1,0 +1,10 @@
+# Target labels
+ samoiluk_a_stack
+ Test
+# Source files and their labels
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/samoiluk_a_stack/test/test_main.cpp
+ samoiluk_a_stack
+ Test
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/samoiluk_a_stack/test/test_stack.cpp
+ samoiluk_a_stack
+ Test

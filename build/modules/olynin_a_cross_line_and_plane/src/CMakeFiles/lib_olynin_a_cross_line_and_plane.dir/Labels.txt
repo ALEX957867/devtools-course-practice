@@ -1,0 +1,16 @@
+# Target labels
+ olynin_a_cross_line_and_plane
+ Library
+# Source files and their labels
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/olynin_a_cross_line_and_plane/src/cross_line_and_plane.cpp
+ olynin_a_cross_line_and_plane
+ Library
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/olynin_a_cross_line_and_plane/src/cross_line_and_plane_app.cpp
+ olynin_a_cross_line_and_plane
+ Library
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/olynin_a_cross_line_and_plane/include/cross_line_and_plane.h
+ olynin_a_cross_line_and_plane
+ Library
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/olynin_a_cross_line_and_plane/include/cross_line_and_plane_app.h
+ olynin_a_cross_line_and_plane
+ Library

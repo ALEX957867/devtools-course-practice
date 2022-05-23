@@ -1,0 +1,16 @@
+# Target labels
+ belyaev_volume_figures
+ Library
+# Source files and their labels
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/belyaev_volume_figures/src/Vfig.cpp
+ belyaev_volume_figures
+ Library
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/belyaev_volume_figures/src/Vfig_application.cpp
+ belyaev_volume_figures
+ Library
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/belyaev_volume_figures/include/Vfig.h
+ belyaev_volume_figures
+ Library
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/belyaev_volume_figures/include/Vfig_application.h
+ belyaev_volume_figures
+ Library

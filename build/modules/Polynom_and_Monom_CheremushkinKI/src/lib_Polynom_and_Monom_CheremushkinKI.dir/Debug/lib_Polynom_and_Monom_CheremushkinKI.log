@@ -1,0 +1,7 @@
+﻿  Building Custom Rule C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/Polynom_and_Monom_CheremushkinKI/src/CMakeLists.txt
+  Monom.cpp
+  Polynom.cpp
+  Polynom_app.cpp
+C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\Polynom_and_Monom_CheremushkinKI\src\Polynom_app.cpp(72,17): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  Создание кода...
+  lib_Polynom_and_Monom_CheremushkinKI.vcxproj -> C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\lib\Polynom_and_Monom_CheremushkinKI.lib

@@ -1,0 +1,7 @@
+﻿  Building Custom Rule C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/gudkov_a_common_posled/src/CMakeLists.txt
+  application.cpp
+  gudkov_a_common_posled.cpp
+C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\gudkov_a_common_posled\src\gudkov_a_common_posled.cpp(10,34): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\gudkov_a_common_posled\src\gudkov_a_common_posled.cpp(11,36): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+  lib_gudkov_a_common_posled.vcxproj -> C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\lib\gudkov_a_common_posled.lib

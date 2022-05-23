@@ -1,0 +1,7 @@
+# Target labels
+ samoiluk_a_stack
+ Application
+# Source files and their labels
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/samoiluk_a_stack/application/stack.cpp
+ samoiluk_a_stack
+ Application

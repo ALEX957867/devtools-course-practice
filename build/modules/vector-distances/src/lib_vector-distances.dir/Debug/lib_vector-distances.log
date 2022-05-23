@@ -1,0 +1,6 @@
+﻿  Building Custom Rule C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/vector-distances/src/CMakeLists.txt
+  vector-distances.cpp
+C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\vector-distances\src\vector-distances.cpp(50,53): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+  vector-distances_app.cpp
+  Создание кода...
+  lib_vector-distances.vcxproj -> C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\lib\vector-distances.lib

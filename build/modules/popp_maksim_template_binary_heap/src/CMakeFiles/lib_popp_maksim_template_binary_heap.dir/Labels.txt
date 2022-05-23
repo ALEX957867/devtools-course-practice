@@ -1,0 +1,16 @@
+# Target labels
+ popp_maksim_template_binary_heap
+ Library
+# Source files and their labels
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/popp_maksim_template_binary_heap/src/template_heap.cpp
+ popp_maksim_template_binary_heap
+ Library
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/popp_maksim_template_binary_heap/src/template_heap_app.cpp
+ popp_maksim_template_binary_heap
+ Library
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/popp_maksim_template_binary_heap/include/template_heap.h
+ popp_maksim_template_binary_heap
+ Library
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/popp_maksim_template_binary_heap/include/template_heap_app.h
+ popp_maksim_template_binary_heap
+ Library

@@ -1,0 +1,6 @@
+﻿  Building Custom Rule C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/kamenev_hanoi_tower/src/CMakeLists.txt
+  hanoi_tower.cpp
+C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\kamenev_hanoi_tower\src\hanoi_tower.cpp(104,29): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\kamenev_hanoi_tower\src\hanoi_tower.cpp(106,27): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\kamenev_hanoi_tower\src\hanoi_tower.cpp(108,28): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  lib_kamenev_hanoi_tower.vcxproj -> C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\lib\kamenev_hanoi_tower.lib

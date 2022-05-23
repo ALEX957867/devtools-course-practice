@@ -1,0 +1,10 @@
+# Target labels
+ ustiuzhanin_n_hashmap
+ Test
+# Source files and their labels
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/ustiuzhanin_n_hashmap/test/test_Ustiuzhanin_Nikita_hashmap.cpp
+ ustiuzhanin_n_hashmap
+ Test
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/ustiuzhanin_n_hashmap/test/test_main.cpp
+ ustiuzhanin_n_hashmap
+ Test

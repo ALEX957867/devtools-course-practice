@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/kuklin_andrey_modified_stack/src/modified_stack.cpp",
+			"labels" : 
+			[
+				"kuklin_andrey_modified_stack",
+				"Library"
+			]
+		},
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/kuklin_andrey_modified_stack/src/modified_stack_application.cpp",
+			"labels" : 
+			[
+				"kuklin_andrey_modified_stack",
+				"Library"
+			]
+		},
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/kuklin_andrey_modified_stack/include/modified_stack.h",
+			"labels" : 
+			[
+				"kuklin_andrey_modified_stack",
+				"Library"
+			]
+		},
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/kuklin_andrey_modified_stack/include/modified_stack_application.h",
+			"labels" : 
+			[
+				"kuklin_andrey_modified_stack",
+				"Library"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"kuklin_andrey_modified_stack",
+			"Library"
+		],
+		"name" : "lib_kuklin_andrey_modified_stack"
+	}
+}

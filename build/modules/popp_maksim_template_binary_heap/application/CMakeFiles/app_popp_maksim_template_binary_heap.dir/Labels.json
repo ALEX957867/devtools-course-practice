@@ -1,0 +1,22 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/popp_maksim_template_binary_heap/application/heap_app.cpp",
+			"labels" : 
+			[
+				"popp_maksim_template_binary_heap",
+				"Application"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"popp_maksim_template_binary_heap",
+			"Application"
+		],
+		"name" : "app_popp_maksim_template_binary_heap"
+	}
+}

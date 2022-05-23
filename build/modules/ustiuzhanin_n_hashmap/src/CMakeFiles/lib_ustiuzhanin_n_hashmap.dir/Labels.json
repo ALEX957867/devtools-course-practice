@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/ustiuzhanin_n_hashmap/src/hashmap.cpp",
+			"labels" : 
+			[
+				"ustiuzhanin_n_hashmap",
+				"Library"
+			]
+		},
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/ustiuzhanin_n_hashmap/src/hashmap_app.cpp",
+			"labels" : 
+			[
+				"ustiuzhanin_n_hashmap",
+				"Library"
+			]
+		},
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/ustiuzhanin_n_hashmap/include/hashmap.h",
+			"labels" : 
+			[
+				"ustiuzhanin_n_hashmap",
+				"Library"
+			]
+		},
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/ustiuzhanin_n_hashmap/include/hashmap_app.h",
+			"labels" : 
+			[
+				"ustiuzhanin_n_hashmap",
+				"Library"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ustiuzhanin_n_hashmap",
+			"Library"
+		],
+		"name" : "lib_ustiuzhanin_n_hashmap"
+	}
+}

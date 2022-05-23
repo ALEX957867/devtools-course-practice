@@ -1,0 +1,10 @@
+# Target labels
+ oskin_g_equation
+ Library
+# Source files and their labels
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/oskin_g_equation/src/equation.cpp
+ oskin_g_equation
+ Library
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/oskin_g_equation/include/equation.h
+ oskin_g_equation
+ Library

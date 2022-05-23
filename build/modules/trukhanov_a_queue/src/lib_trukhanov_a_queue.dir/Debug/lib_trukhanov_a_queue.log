@@ -1,0 +1,16 @@
+﻿  Building Custom Rule C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/trukhanov_a_queue/src/CMakeLists.txt
+  queue_application.cpp
+C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\trukhanov_a_queue\src\queue_application.cpp(42,47): warning C4244: return: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\trukhanov_a_queue\src\queue_application.cpp(47,47): warning C4244: return: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\trukhanov_a_queue\src\queue_application.cpp(52,47): warning C4244: return: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\trukhanov_a_queue\src\queue_application.cpp(80,41): warning C4101: e: неиспользованная локальная переменная
+C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\trukhanov_a_queue\src\queue_application.cpp(83,37): warning C4101: e: неиспользованная локальная переменная
+C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\trukhanov_a_queue\src\queue_application.cpp(128,30): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\trukhanov_a_queue\src\queue_application.cpp(135,31): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  trukhanov_a_queue.cpp
+  Создание кода...
+  lib_trukhanov_a_queue.vcxproj -> C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\lib\trukhanov_a_queue.lib

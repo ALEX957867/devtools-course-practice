@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/pichugin_i_sort/src/sort_selection.cpp",
+			"labels" : 
+			[
+				"pichugin_i_sort",
+				"Library"
+			]
+		},
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/pichugin_i_sort/src/sort_selection_application.cpp",
+			"labels" : 
+			[
+				"pichugin_i_sort",
+				"Library"
+			]
+		},
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/pichugin_i_sort/include/sort_selection.h",
+			"labels" : 
+			[
+				"pichugin_i_sort",
+				"Library"
+			]
+		},
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/pichugin_i_sort/include/sort_selection_application.h",
+			"labels" : 
+			[
+				"pichugin_i_sort",
+				"Library"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"pichugin_i_sort",
+			"Library"
+		],
+		"name" : "lib_pichugin_i_sort"
+	}
+}

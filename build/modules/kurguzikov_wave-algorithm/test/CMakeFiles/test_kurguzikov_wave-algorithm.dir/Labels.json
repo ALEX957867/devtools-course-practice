@@ -1,0 +1,30 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/kurguzikov_wave-algorithm/test/kurguzikov_wave_algorithm_test.cpp",
+			"labels" : 
+			[
+				"kurguzikov_wave-algorithm",
+				"Test"
+			]
+		},
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/kurguzikov_wave-algorithm/test/test_main.cpp",
+			"labels" : 
+			[
+				"kurguzikov_wave-algorithm",
+				"Test"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"kurguzikov_wave-algorithm",
+			"Test"
+		],
+		"name" : "test_kurguzikov_wave-algorithm"
+	}
+}

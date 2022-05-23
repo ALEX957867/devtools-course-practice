@@ -1,0 +1,8 @@
+﻿  Building Custom Rule C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/trevogin_kirill_maxpos/src/CMakeLists.txt
+  app.cpp
+C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\trevogin_kirill_maxpos\src\app.cpp(23,27): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  trevogin_kirill_maxpos.cpp
+C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\trevogin_kirill_maxpos\src\trevogin_kirill_maxpos.cpp(11,23): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\trevogin_kirill_maxpos\src\trevogin_kirill_maxpos.cpp(22,27): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+  lib_trevogin_kirill_maxpos.vcxproj -> C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\lib\trevogin_kirill_maxpos.lib

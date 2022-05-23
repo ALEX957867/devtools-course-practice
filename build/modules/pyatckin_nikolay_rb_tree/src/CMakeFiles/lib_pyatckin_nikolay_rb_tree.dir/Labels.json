@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/pyatckin_nikolay_rb_tree/src/rb_operation.cpp",
+			"labels" : 
+			[
+				"pyatckin_nikolay_rb_tree",
+				"Library"
+			]
+		},
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/pyatckin_nikolay_rb_tree/src/rb_tree.cpp",
+			"labels" : 
+			[
+				"pyatckin_nikolay_rb_tree",
+				"Library"
+			]
+		},
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/pyatckin_nikolay_rb_tree/include/rb_operation.h",
+			"labels" : 
+			[
+				"pyatckin_nikolay_rb_tree",
+				"Library"
+			]
+		},
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/pyatckin_nikolay_rb_tree/include/rb_tree.h",
+			"labels" : 
+			[
+				"pyatckin_nikolay_rb_tree",
+				"Library"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"pyatckin_nikolay_rb_tree",
+			"Library"
+		],
+		"name" : "lib_pyatckin_nikolay_rb_tree"
+	}
+}

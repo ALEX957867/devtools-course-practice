@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/kazhaeva_complex/src/alimov_calculator.cpp",
+			"labels" : 
+			[
+				"kazhaeva_complex",
+				"Library"
+			]
+		},
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/kazhaeva_complex/src/kazhaeva_complex.cpp",
+			"labels" : 
+			[
+				"kazhaeva_complex",
+				"Library"
+			]
+		},
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/kazhaeva_complex/include/alimov_calculator.h",
+			"labels" : 
+			[
+				"kazhaeva_complex",
+				"Library"
+			]
+		},
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/kazhaeva_complex/include/kazhaeva_complex.h",
+			"labels" : 
+			[
+				"kazhaeva_complex",
+				"Library"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"kazhaeva_complex",
+			"Library"
+		],
+		"name" : "lib_kazhaeva_complex"
+	}
+}

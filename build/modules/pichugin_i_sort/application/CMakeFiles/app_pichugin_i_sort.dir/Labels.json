@@ -1,0 +1,22 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/pichugin_i_sort/application/application.cpp",
+			"labels" : 
+			[
+				"pichugin_i_sort",
+				"Application"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"pichugin_i_sort",
+			"Application"
+		],
+		"name" : "app_pichugin_i_sort"
+	}
+}

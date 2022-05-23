@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/belyaev_volume_figures/src/Vfig.cpp",
+			"labels" : 
+			[
+				"belyaev_volume_figures",
+				"Library"
+			]
+		},
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/belyaev_volume_figures/src/Vfig_application.cpp",
+			"labels" : 
+			[
+				"belyaev_volume_figures",
+				"Library"
+			]
+		},
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/belyaev_volume_figures/include/Vfig.h",
+			"labels" : 
+			[
+				"belyaev_volume_figures",
+				"Library"
+			]
+		},
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/belyaev_volume_figures/include/Vfig_application.h",
+			"labels" : 
+			[
+				"belyaev_volume_figures",
+				"Library"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"belyaev_volume_figures",
+			"Library"
+		],
+		"name" : "lib_belyaev_volume_figures"
+	}
+}

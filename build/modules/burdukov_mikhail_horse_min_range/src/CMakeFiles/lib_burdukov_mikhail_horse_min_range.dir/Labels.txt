@@ -1,0 +1,10 @@
+# Target labels
+ burdukov_mikhail_horse_min_range
+ Library
+# Source files and their labels
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/burdukov_mikhail_horse_min_range/src/horse_min_range.cpp
+ burdukov_mikhail_horse_min_range
+ Library
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/burdukov_mikhail_horse_min_range/include/horse_min_range.h
+ burdukov_mikhail_horse_min_range
+ Library

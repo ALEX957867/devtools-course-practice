@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/vanyushkov_m_ratio/src/ratio.cpp",
+			"labels" : 
+			[
+				"vanyushkov_m_ratio",
+				"Library"
+			]
+		},
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/vanyushkov_m_ratio/src/ratio_app.cpp",
+			"labels" : 
+			[
+				"vanyushkov_m_ratio",
+				"Library"
+			]
+		},
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/vanyushkov_m_ratio/include/ratio.h",
+			"labels" : 
+			[
+				"vanyushkov_m_ratio",
+				"Library"
+			]
+		},
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/vanyushkov_m_ratio/include/ratio_app.h",
+			"labels" : 
+			[
+				"vanyushkov_m_ratio",
+				"Library"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"vanyushkov_m_ratio",
+			"Library"
+		],
+		"name" : "lib_vanyushkov_m_ratio"
+	}
+}

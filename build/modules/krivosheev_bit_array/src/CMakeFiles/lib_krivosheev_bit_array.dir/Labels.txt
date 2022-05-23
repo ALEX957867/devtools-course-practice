@@ -1,0 +1,10 @@
+# Target labels
+ krivosheev_bit_array
+ Library
+# Source files and their labels
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/krivosheev_bit_array/src/bit_array.cpp
+ krivosheev_bit_array
+ Library
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/krivosheev_bit_array/include/bit_array.h
+ krivosheev_bit_array
+ Library

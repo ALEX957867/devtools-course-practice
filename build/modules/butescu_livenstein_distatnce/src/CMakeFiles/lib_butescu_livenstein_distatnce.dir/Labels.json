@@ -1,0 +1,30 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/butescu_livenstein_distatnce/src/levenshtein_distance.cpp",
+			"labels" : 
+			[
+				"butescu_livenstein_distatnce",
+				"Library"
+			]
+		},
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/butescu_livenstein_distatnce/include/levenshtein_distance.h",
+			"labels" : 
+			[
+				"butescu_livenstein_distatnce",
+				"Library"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"butescu_livenstein_distatnce",
+			"Library"
+		],
+		"name" : "lib_butescu_livenstein_distatnce"
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/troegubova_numeric_interval/application/numeric_interval.cpp",
+			"labels" : 
+			[
+				"troegubova_numeric_interval",
+				"Application"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"troegubova_numeric_interval",
+			"Application"
+		],
+		"name" : "app_troegubova_numeric_interval"
+	}
+}

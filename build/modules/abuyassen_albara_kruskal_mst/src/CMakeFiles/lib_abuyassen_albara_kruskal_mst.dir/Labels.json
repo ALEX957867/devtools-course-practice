@@ -1,0 +1,30 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/abuyassen_albara_kruskal_mst/src/Krsukal_MST.cpp",
+			"labels" : 
+			[
+				"abuyassen_albara_kruskal_mst",
+				"Library"
+			]
+		},
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/abuyassen_albara_kruskal_mst/include/Kruskal_MST.h",
+			"labels" : 
+			[
+				"abuyassen_albara_kruskal_mst",
+				"Library"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"abuyassen_albara_kruskal_mst",
+			"Library"
+		],
+		"name" : "lib_abuyassen_albara_kruskal_mst"
+	}
+}

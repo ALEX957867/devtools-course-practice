@@ -1,0 +1,29 @@
+﻿  Building Custom Rule C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/remizova_matrix/src/CMakeLists.txt
+  matrix_app.cpp
+C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\remizova_matrix\src\matrix_app.cpp(48,13): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\remizova_matrix\src\matrix_app.cpp(93,34): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\remizova_matrix\src\matrix_app.cpp(93,22): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\remizova_matrix\src\matrix_app.cpp(98,34): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\remizova_matrix\src\matrix_app.cpp(98,22): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\remizova_matrix\include/remizova_a_matrix.h(203,26): warning C4244: return: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\remizova_matrix\include/remizova_a_matrix.h(195): message : во время компиляции функции-члена класс шаблон "int TMatrix<double>::determinant(TMatrix<double>) const"
+C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\remizova_matrix\src\matrix_app.cpp(74): message : выполняется компиляция ссылки на экземпляр шаблон функции "int TMatrix<double>::determinant(TMatrix<double>) const"
+C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\remizova_matrix\src\matrix_app.cpp(55): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "TMatrix<double>"
+C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\remizova_matrix\include/remizova_a_matrix.h(206,43): warning C4244: return: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\remizova_matrix\include/remizova_a_matrix.h(211,1): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\remizova_matrix\include/remizova_a_matrix.h(212,1): warning C4244: +=: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+  remizova_a_matrix.cpp
+  Создание кода...
+  lib_remizova_matrix.vcxproj -> C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\lib\remizova_matrix.lib

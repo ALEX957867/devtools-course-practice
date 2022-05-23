@@ -1,0 +1,7 @@
+﻿  Building Custom Rule C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/graph_diameter/src/CMakeLists.txt
+  graph_diameter.cpp
+  graph_diameter_app.cpp
+C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\graph_diameter\src\graph_diameter_app.cpp(51,29): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\graph_diameter\src\graph_diameter_app.cpp(65,21): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+  Создание кода...
+  lib_graph_diameter.vcxproj -> C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\lib\graph_diameter.lib

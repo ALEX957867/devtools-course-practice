@@ -1,0 +1,10 @@
+# Target labels
+ olynin_a_cross_line_and_plane
+ Test
+# Source files and their labels
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/olynin_a_cross_line_and_plane/test/test_cross_line_and_plane.cpp
+ olynin_a_cross_line_and_plane
+ Test
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/olynin_a_cross_line_and_plane/test/test_main.cpp
+ olynin_a_cross_line_and_plane
+ Test

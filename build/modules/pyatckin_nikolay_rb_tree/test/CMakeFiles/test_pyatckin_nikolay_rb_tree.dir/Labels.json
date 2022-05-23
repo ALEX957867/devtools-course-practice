@@ -1,0 +1,30 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/pyatckin_nikolay_rb_tree/test/test_main.cpp",
+			"labels" : 
+			[
+				"pyatckin_nikolay_rb_tree",
+				"Test"
+			]
+		},
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/pyatckin_nikolay_rb_tree/test/test_rb_tree.cpp",
+			"labels" : 
+			[
+				"pyatckin_nikolay_rb_tree",
+				"Test"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"pyatckin_nikolay_rb_tree",
+			"Test"
+		],
+		"name" : "test_pyatckin_nikolay_rb_tree"
+	}
+}

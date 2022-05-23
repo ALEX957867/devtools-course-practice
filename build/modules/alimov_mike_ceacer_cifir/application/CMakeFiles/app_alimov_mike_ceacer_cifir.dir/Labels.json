@@ -1,0 +1,22 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/alimov_mike_ceacer_cifir/application/application.cpp",
+			"labels" : 
+			[
+				"alimov_mike_ceacer_cifir",
+				"Application"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"alimov_mike_ceacer_cifir",
+			"Application"
+		],
+		"name" : "app_alimov_mike_ceacer_cifir"
+	}
+}

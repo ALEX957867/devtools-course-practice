@@ -1,0 +1,30 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/oskin_g_equation/test/test_equation.cpp",
+			"labels" : 
+			[
+				"oskin_g_equation",
+				"Test"
+			]
+		},
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/oskin_g_equation/test/test_main.cpp",
+			"labels" : 
+			[
+				"oskin_g_equation",
+				"Test"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"oskin_g_equation",
+			"Test"
+		],
+		"name" : "test_oskin_g_equation"
+	}
+}

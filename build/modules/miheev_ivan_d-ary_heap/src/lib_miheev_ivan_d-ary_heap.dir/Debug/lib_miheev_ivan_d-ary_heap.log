@@ -1,0 +1,7 @@
+﻿  Building Custom Rule C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/miheev_ivan_d-ary_heap/src/CMakeLists.txt
+  DHeap.cpp
+  DHeap_application.cpp
+C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\miheev_ivan_d-ary_heap\src\DHeap_application.cpp(203,43): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\miheev_ivan_d-ary_heap\src\DHeap_application.cpp(248,44): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  Создание кода...
+  lib_miheev_ivan_d-ary_heap.vcxproj -> C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\lib\miheev_ivan_d-ary_heap.lib

@@ -16,7 +16,6 @@ class ModifiedStack {
  public:
   explicit ModifiedStack(size_t _maxSize = 10);
   explicit ModifiedStack(const ModifiedStack& mstack);
-  ModifiedStack(ModifiedStack&& mstack);
   ~ModifiedStack();
 
   bool Empty() const;
@@ -29,7 +28,6 @@ class ModifiedStack {
   int MinElem() const;
 
   ModifiedStack& operator=(const ModifiedStack& mstack);
-  ModifiedStack& operator=(ModifiedStack&& mstack);
   bool operator==(const ModifiedStack& mstack) const;
   bool operator!=(const ModifiedStack& mstack) const;
 };

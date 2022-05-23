@@ -1,0 +1,22 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/kim_nikita_gronsfeld_cipher/application/application.cpp",
+			"labels" : 
+			[
+				"kim_nikita_gronsfeld_cipher",
+				"Application"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"kim_nikita_gronsfeld_cipher",
+			"Application"
+		],
+		"name" : "app_kim_nikita_gronsfeld_cipher"
+	}
+}

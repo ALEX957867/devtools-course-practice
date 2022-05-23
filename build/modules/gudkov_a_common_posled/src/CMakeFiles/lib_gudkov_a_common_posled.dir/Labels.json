@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/gudkov_a_common_posled/src/application.cpp",
+			"labels" : 
+			[
+				"gudkov_a_common_posled",
+				"Library"
+			]
+		},
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/gudkov_a_common_posled/src/gudkov_a_common_posled.cpp",
+			"labels" : 
+			[
+				"gudkov_a_common_posled",
+				"Library"
+			]
+		},
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/gudkov_a_common_posled/include/application.h",
+			"labels" : 
+			[
+				"gudkov_a_common_posled",
+				"Library"
+			]
+		},
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/gudkov_a_common_posled/include/gudkov_a_common_posled.h",
+			"labels" : 
+			[
+				"gudkov_a_common_posled",
+				"Library"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"gudkov_a_common_posled",
+			"Library"
+		],
+		"name" : "lib_gudkov_a_common_posled"
+	}
+}

@@ -22,15 +22,6 @@ ModifiedStack::ModifiedStack(const ModifiedStack& mstack)
   for (size_t i = 0; i < size; ++i) mas[i] = mstack.mas[i];
 }
 
-ModifiedStack::ModifiedStack(ModifiedStack&& mstack)
-    : size(mstack.size), maxSize(mstack.maxSize) {
-  size = mstack.size;
-  mas = new std::pair<int, int>[maxSize];
-  for (size_t i = 0; i < size; ++i) mas[i] = mstack.mas[i];
-  mstack.mas = nullptr;
-  mstack.size = mstack.maxSize = 0;
-}
-
 bool ModifiedStack::Empty() const { return size == 0; }
 
 bool ModifiedStack::Full() const { return size == maxSize; }
@@ -85,17 +76,6 @@ ModifiedStack& ModifiedStack::operator=(const ModifiedStack& mstack) {
     size = mstack.size;
     for (size_t i = 0; i < size; ++i) mas[i] = mstack.mas[i];
   }
-  return *this;
-}
-
-ModifiedStack& ModifiedStack::operator=(ModifiedStack&& mstack) {
-  delete mas;
-  mas = new std::pair<int, int>[maxSize];
-  size = mstack.size;
-  maxSize = mstack.maxSize;
-  for (size_t i = 0; i < size; ++i) mas[i] = mstack.mas[i];
-  mstack.mas = nullptr;
-  mstack.size = mstack.maxSize = 0;
   return *this;
 }
 

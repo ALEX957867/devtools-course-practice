@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/graph_diameter/src/graph_diameter.cpp",
+			"labels" : 
+			[
+				"graph_diameter",
+				"Library"
+			]
+		},
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/graph_diameter/src/graph_diameter_app.cpp",
+			"labels" : 
+			[
+				"graph_diameter",
+				"Library"
+			]
+		},
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/graph_diameter/include/graph_diameter.h",
+			"labels" : 
+			[
+				"graph_diameter",
+				"Library"
+			]
+		},
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/graph_diameter/include/graph_diameter_app.h",
+			"labels" : 
+			[
+				"graph_diameter",
+				"Library"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"graph_diameter",
+			"Library"
+		],
+		"name" : "lib_graph_diameter"
+	}
+}

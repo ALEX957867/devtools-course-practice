@@ -1,0 +1,7 @@
+# Target labels
+ ermakov_pavel_tringle_params
+ Application
+# Source files and their labels
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/ermakov_pavel_tringle_params/application/application.cpp
+ ermakov_pavel_tringle_params
+ Application

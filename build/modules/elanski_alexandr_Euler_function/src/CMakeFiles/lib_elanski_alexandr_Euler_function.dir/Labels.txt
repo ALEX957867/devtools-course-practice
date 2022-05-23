@@ -1,0 +1,16 @@
+# Target labels
+ elanski_alexandr_Euler_function
+ Library
+# Source files and their labels
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/elanski_alexandr_Euler_function/src/Euler_function.cpp
+ elanski_alexandr_Euler_function
+ Library
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/elanski_alexandr_Euler_function/src/Euler_function_app.cpp
+ elanski_alexandr_Euler_function
+ Library
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/elanski_alexandr_Euler_function/include/Euler_function.h
+ elanski_alexandr_Euler_function
+ Library
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/elanski_alexandr_Euler_function/include/Euler_function_app.h
+ elanski_alexandr_Euler_function
+ Library

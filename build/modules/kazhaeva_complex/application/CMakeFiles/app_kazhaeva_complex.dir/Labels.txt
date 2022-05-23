@@ -1,0 +1,7 @@
+# Target labels
+ kazhaeva_complex
+ Application
+# Source files and their labels
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/kazhaeva_complex/application/alimov_complex_app.cpp
+ kazhaeva_complex
+ Application

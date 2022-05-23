@@ -1,0 +1,10 @@
+# Target labels
+ vector3d_operations
+ Library
+# Source files and their labels
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/vector3d_operations/src/vector3d_operations.cpp
+ vector3d_operations
+ Library
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/vector3d_operations/include/vector3d_operations.h
+ vector3d_operations
+ Library

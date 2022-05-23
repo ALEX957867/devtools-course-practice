@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\korobeinikov_string_calculator\src\string_calculator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\korobeinikov_string_calculator\src\string_calculator_app.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\korobeinikov_string_calculator\include\string_calculator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\korobeinikov_string_calculator\include\string_calculator_app.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\korobeinikov_string_calculator\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{919B6525-EF2D-302B-BA90-5BF66AB4036D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{74524D95-1642-3324-890C-91C299440DD0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

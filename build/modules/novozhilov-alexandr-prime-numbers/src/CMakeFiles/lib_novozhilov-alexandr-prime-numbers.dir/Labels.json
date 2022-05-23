@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/novozhilov-alexandr-prime-numbers/src/prime_numbers.cpp",
+			"labels" : 
+			[
+				"novozhilov-alexandr-prime-numbers",
+				"Library"
+			]
+		},
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/novozhilov-alexandr-prime-numbers/src/prime_numbers_application.cpp",
+			"labels" : 
+			[
+				"novozhilov-alexandr-prime-numbers",
+				"Library"
+			]
+		},
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/novozhilov-alexandr-prime-numbers/include/prime_numbers.h",
+			"labels" : 
+			[
+				"novozhilov-alexandr-prime-numbers",
+				"Library"
+			]
+		},
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/novozhilov-alexandr-prime-numbers/include/prime_numbers_application.h",
+			"labels" : 
+			[
+				"novozhilov-alexandr-prime-numbers",
+				"Library"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"novozhilov-alexandr-prime-numbers",
+			"Library"
+		],
+		"name" : "lib_novozhilov-alexandr-prime-numbers"
+	}
+}

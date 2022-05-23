@@ -1,0 +1,1446 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\Polynom_and_Monom_CheremushkinKI\application\application.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\Polynom_and_Monom_CheremushkinKI\include\Monom.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\Polynom_and_Monom_CheremushkinKI\include\Polynom.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\Polynom_and_Monom_CheremushkinKI\include\Polynom_app.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\Polynom_and_Monom_CheremushkinKI\src\Monom.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\Polynom_and_Monom_CheremushkinKI\src\Polynom.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\Polynom_and_Monom_CheremushkinKI\src\Polynom_app.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\Polynom_and_Monom_CheremushkinKI\test\test_CHEREMUSHKIN_KIRILL_polynom_monom.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\Polynom_and_Monom_CheremushkinKI\test\test_main.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\abuyassen_albara_kruskal_mst\include\Kruskal_MST.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\abuyassen_albara_kruskal_mst\src\Krsukal_MST.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\abuyassen_albara_kruskal_mst\test\test_Kruskal_MST.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\abuyassen_albara_kruskal_mst\test\test_main.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\alimov_mike_ceacer_cifir\application\application.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\alimov_mike_ceacer_cifir\include\alimov_mike_ceacer_cifir.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\alimov_mike_ceacer_cifir\include\alimov_mike_ceacer_cifir_application.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\alimov_mike_ceacer_cifir\src\alimov_mike_ceacer_cifir.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\alimov_mike_ceacer_cifir\src\alimov_mike_ceacer_cifir_application.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\alimov_mike_ceacer_cifir\test\test_alimov_mike_ceacer_cifir.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\alimov_mike_ceacer_cifir\test\test_main.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\bakina_kseniia_betcher\application\my_app.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\bakina_kseniia_betcher\include\backina_kseniia_betcher.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\bakina_kseniia_betcher\include\betcher_app.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\bakina_kseniia_betcher\src\bakina_kseniia_betcher.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\bakina_kseniia_betcher\src\betcher_app.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\bakina_kseniia_betcher\test\test.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\bakina_kseniia_betcher\test\test_main.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\balova_e_interpolation_search\application\application.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\balova_e_interpolation_search\include\interpolation_app.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\balova_e_interpolation_search\include\interpolation_search.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\balova_e_interpolation_search\src\interpolation_app.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\balova_e_interpolation_search\src\interpolation_search.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\balova_e_interpolation_search\test\test_interpolation_search.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\balova_e_interpolation_search\test\test_main.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\belyaev_volume_figures\application\application.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\belyaev_volume_figures\include\Vfig.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\belyaev_volume_figures\include\Vfig_application.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\belyaev_volume_figures\src\Vfig.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\belyaev_volume_figures\src\Vfig_application.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\belyaev_volume_figures\test\test_main.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\belyaev_volume_figures\test\test_volume.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\borisov_m_pos_systems_calculator\application\application.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\borisov_m_pos_systems_calculator\include\borisov_m_pos_systems_calculator.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\borisov_m_pos_systems_calculator\include\cal_app.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\borisov_m_pos_systems_calculator\src\borisov_m_pos_systems_calculator.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\borisov_m_pos_systems_calculator\src\systems_calculator_application.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\borisov_m_pos_systems_calculator\test\test.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\borisov_m_pos_systems_calculator\test\test_main.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\brazhnik_dmitry_converter_arab_rom\include\converter.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\brazhnik_dmitry_converter_arab_rom\src\converter.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\brazhnik_dmitry_converter_arab_rom\test\test_converter.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\brazhnik_dmitry_converter_arab_rom\test\test_main.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\burdukov_mikhail_horse_min_range\include\horse_min_range.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\burdukov_mikhail_horse_min_range\src\horse_min_range.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\burdukov_mikhail_horse_min_range\test\test_burdukov_mikhail_horse_min_range.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\burdukov_mikhail_horse_min_range\test\test_main.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\butescu_livenstein_distatnce\include\levenshtein_distance.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\butescu_livenstein_distatnce\src\levenshtein_distance.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\butescu_livenstein_distatnce\test\test_levenshtein_distance.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\butescu_livenstein_distatnce\test\test_main.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\calculate-price\application\application.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\calculate-price\include\application.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\calculate-price\include\calculate_price.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\calculate-price\src\application.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\calculate-price\src\calculate_price.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\calculate-price\test\test_application.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\calculate-price\test\test_calculate_price.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\chornyi-yura-vigenere\application\vigenere_cipher.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\chornyi-yura-vigenere\include\vigenere_cipher.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\chornyi-yura-vigenere\include\vigenere_cipher_app.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\chornyi-yura-vigenere\src\vigenere_cipher.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\chornyi-yura-vigenere\src\vigenere_cipher_app.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\chornyi-yura-vigenere\test\test_main.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\chornyi-yura-vigenere\test\test_vigenere_cipher.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\complex-number\application\complex-number.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\complex-number\include\complex_calculator.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\complex-number\include\complex_number.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\complex-number\src\complex_calculator.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\complex-number\src\complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\complex-number\test\test_ALIMOV_MIKHAIL_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\complex-number\test\test_Abuyassen_Albara_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\complex-number\test\test_Andrich_Maria_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\complex-number\test\test_Butescu_Vladimir_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\complex-number\test\test_CHEREMUSHKIN_KIRILL_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\complex-number\test\test_DANSHIN_GLEB_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\complex-number\test\test_Diana_Lukashuk_comlex_number.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\complex-number\test\test_Elanskiy_Alexandr_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\complex-number\test\test_Elena_Balova_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\complex-number\test\test_Frolov_Gleb_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\complex-number\test\test_GROSHEV_NIKOLAY_complex_numbers.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\complex-number\test\test_Krivosheev_miron.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\complex-number\test\test_Labinskaya_Marina_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\complex-number\test\test_Melnikov_Aleksei_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\complex-number\test\test_Mironova_Ekaterina_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\complex-number\test\test_NARLYYW_PARAHAT_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\complex-number\test\test_Novozhilov_Alexandr_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\complex-number\test\test_Oskin_Georgii_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\complex-number\test\test_Polina_Petrova_complex_numder.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\complex-number\test\test_Shatalin_Dmitrii_complex_numder.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\complex-number\test\test_Ustiuzhanin_Nikita_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\complex-number\test\test_Zaitsev_Alexander_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\complex-number\test\test_bakina_kseniia_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\complex-number\test\test_belyaev_ilya_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\complex-number\test\test_borisov_maxim_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\complex-number\test\test_brazhnik_dmitry_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\complex-number\test\test_chornyi_yura_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\complex-number\test\test_dergalova_arina_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\complex-number\test\test_dydykin_p_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\complex-number\test\test_ermakov_p_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\complex-number\test\test_ershov_alexey_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\complex-number\test\test_galindo_complex_numbers.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\complex-number\test\test_gordeev_v_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\complex-number\test\test_gordey_maria_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\complex-number\test\test_gudkov_a_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\complex-number\test\test_ivanov_arkady_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\complex-number\test\test_kamenev_ilya_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\complex-number\test\test_kazhaeva_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\complex-number\test\test_kim_nikita_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\complex-number\test\test_kirill_lakhov_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\complex-number\test\test_kirill_trevogin_p_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\complex-number\test\test_kitaev_pavel_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\complex-number\test\test_korobeinikov_alexandr_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\complex-number\test\test_krapivenskikh_stepan_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\complex-number\test\test_kruglov_aleksei_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\complex-number\test\test_kuklin_andrey_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\complex-number\test\test_kurguzikov_kirill_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\complex-number\test\test_main.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\complex-number\test\test_maksim_orlov_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\complex-number\test\test_miheev_ivan_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\complex-number\test\test_moskvin_stanislav_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\complex-number\test\test_myasnikova_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\complex-number\test\test_olynin_alexandr_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\complex-number\test\test_pichugin_ilya_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\complex-number\test\test_pinezhanin_evgeny_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\complex-number\test\test_podovinnikov_a_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\complex-number\test\test_popp_maksim_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\complex-number\test\test_pyatckin_nikolay_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\complex-number\test\test_remizova_a_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\complex-number\test\test_samoiluk_a_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\complex-number\test\test_shelepin_nikita_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\complex-number\test\test_shurygina_a_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\complex-number\test\test_simple.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\complex-number\test\test_soldatov_gleb_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\complex-number\test\test_troegubova_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\complex-number\test\test_trukhanov_artem_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\complex-number\test\test_vanyushkov_maxim_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\complex-number\test\test_vitulin_ivan_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\complex-number\test\test_yashin_kirill_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\complex-number\test\test_zaitseva_ksenia_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\complex-number\test\test_zarubin_mikhail_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\conways_life\include\conways_life.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\conways_life\src\conways_life.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\conways_life\test\test_conways_life.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\conways_life\test\test_main.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\deicstra_algorithm\include\ershov_alexey_deicstra_algorithm.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\deicstra_algorithm\src\ershov_alexey_deicstra_algorithm.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\deicstra_algorithm\test\test_ershov_alexey_deicstra_algorithm.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\deicstra_algorithm\test\test_main.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\elanski_alexandr_Euler_function\application\Euler_function.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\elanski_alexandr_Euler_function\include\Euler_function.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\elanski_alexandr_Euler_function\include\Euler_function_app.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\elanski_alexandr_Euler_function\src\Euler_function.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\elanski_alexandr_Euler_function\src\Euler_function_app.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\elanski_alexandr_Euler_function\test\main.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\elanski_alexandr_Euler_function\test\test.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\ermakov_pavel_tringle_params\application\application.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\ermakov_pavel_tringle_params\include\ermakov_pavel_tringle_params.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\ermakov_pavel_tringle_params\include\triangle_app.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\ermakov_pavel_tringle_params\src\ermakov_pavel_tringle_params.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\ermakov_pavel_tringle_params\src\triangle_app.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\ermakov_pavel_tringle_params\test\test.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\ermakov_pavel_tringle_params\test\test_main.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\frolov_regular_expressions\include\regular_expressions.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\frolov_regular_expressions\src\regular_expressions.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\frolov_regular_expressions\test\test_main.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\frolov_regular_expressions\test\test_regular_expressions.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\galindo_30_rule\application\main.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\galindo_30_rule\include\cellular_state_application.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\galindo_30_rule\include\galindo_30_rule.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\galindo_30_rule\src\cellular_state_application.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\galindo_30_rule\src\galindo_30_rule.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\galindo_30_rule\test\test_galindo_30_rule.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\galindo_30_rule\test\test_main.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\gordeev_avl_tree\include\AVLTree.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\gordeev_avl_tree\src\AVLTree.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\gordeev_avl_tree\test\test_gordeev_AVLTree.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\gordeev_avl_tree\test\test_main.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\graph-num-comp\include\num_comp.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\graph-num-comp\src\num_comp.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\graph-num-comp\test\test_main.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\graph-num-comp\test\test_num_comp.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\graph_diameter\application\graph_diameter.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\graph_diameter\include\graph_diameter.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\graph_diameter\include\graph_diameter_app.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\graph_diameter\src\graph_diameter.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\graph_diameter\src\graph_diameter_app.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\graph_diameter\test\graph_diameter_test.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\graph_diameter\test\test_main.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\groshev_point_in_triangle\application\application.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\groshev_point_in_triangle\include\point_in_triangle.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\groshev_point_in_triangle\include\point_in_triangle_app.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\groshev_point_in_triangle\src\point_in_triangle.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\groshev_point_in_triangle\src\point_in_triangle_app.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\groshev_point_in_triangle\test\test_main.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\groshev_point_in_triangle\test\test_point_in_triangle.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\gudkov_a_common_posled\application\main.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\gudkov_a_common_posled\include\application.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\gudkov_a_common_posled\include\gudkov_a_common_posled.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\gudkov_a_common_posled\src\application.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\gudkov_a_common_posled\src\gudkov_a_common_posled.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\gudkov_a_common_posled\test\test.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\gudkov_a_common_posled\test\test_main.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\ivanov_a_set\include\ivanov_a_set.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\ivanov_a_set\src\ivanov_a_set.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\ivanov_a_set\test\test_main.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\ivanov_a_set\test\test_set.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\kamenev_hanoi_tower\include\hanoi_tower.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\kamenev_hanoi_tower\src\hanoi_tower.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\kamenev_hanoi_tower\test\test_hanoi_tower.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\kamenev_hanoi_tower\test\test_main.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\kazhaeva_complex\application\alimov_complex_app.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\kazhaeva_complex\include\alimov_calculator.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\kazhaeva_complex\include\kazhaeva_complex.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\kazhaeva_complex\src\alimov_calculator.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\kazhaeva_complex\src\kazhaeva_complex.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\kazhaeva_complex\test\test_kazhaeva_complex.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\kazhaeva_complex\test\test_main.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\kim_nikita_gronsfeld_cipher\application\application.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\kim_nikita_gronsfeld_cipher\include\gronsfeld_app.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\kim_nikita_gronsfeld_cipher\include\kim_nikita_gronsfeld_cipher.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\kim_nikita_gronsfeld_cipher\src\gronsfeld_app.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\kim_nikita_gronsfeld_cipher\src\kim_nikita_gronsfeld_cipher.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\kim_nikita_gronsfeld_cipher\test\test.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\kim_nikita_gronsfeld_cipher\test\test_main.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\korobeinikov_string_calculator\application\application.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\korobeinikov_string_calculator\include\string_calculator.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\korobeinikov_string_calculator\include\string_calculator_app.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\korobeinikov_string_calculator\src\string_calculator.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\korobeinikov_string_calculator\src\string_calculator_app.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\korobeinikov_string_calculator\test\test_main.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\korobeinikov_string_calculator\test\test_string_calculator.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\krapivenskikh_stepan_leftist_heap\application\leftist_heap.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\krapivenskikh_stepan_leftist_heap\include\leftist_heap.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\krapivenskikh_stepan_leftist_heap\include\leftist_heap_application.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\krapivenskikh_stepan_leftist_heap\src\leftist_heap.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\krapivenskikh_stepan_leftist_heap\src\leftist_heap_application.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\krapivenskikh_stepan_leftist_heap\test\test_leftist_heap.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\krapivenskikh_stepan_leftist_heap\test\test_leftist_heap_application.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\krapivenskikh_stepan_leftist_heap\test\test_main.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\krivosheev_bit_array\include\bit_array.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\krivosheev_bit_array\src\bit_array.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\krivosheev_bit_array\test\test_bit_array.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\krivosheev_bit_array\test\test_main.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\kruglov_aleksei_segment_tree\application\my_app.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\kruglov_aleksei_segment_tree\include\segment_tree.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\kruglov_aleksei_segment_tree\include\segment_tree_app.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\kruglov_aleksei_segment_tree\src\segment_tree.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\kruglov_aleksei_segment_tree\src\segment_tree_app.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\kruglov_aleksei_segment_tree\test\test_kruglov_aleksei_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\kruglov_aleksei_segment_tree\test\test_main.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\kuklin_andrey_modified_stack\application\modified_stack.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\kuklin_andrey_modified_stack\include\modified_stack.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\kuklin_andrey_modified_stack\include\modified_stack_application.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\kuklin_andrey_modified_stack\src\modified_stack.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\kuklin_andrey_modified_stack\src\modified_stack_application.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\kuklin_andrey_modified_stack\test\test_main.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\kuklin_andrey_modified_stack\test\test_modified_stack.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\kurguzikov_wave-algorithm\include\kurguzikov_wave_algorithm.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\kurguzikov_wave-algorithm\src\kurguzikov_wave_algorithm.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\kurguzikov_wave-algorithm\test\kurguzikov_wave_algorithm_test.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\kurguzikov_wave-algorithm\test\test_main.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\lakhov-statistics\application\application.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\lakhov-statistics\include\stohastic_variable.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\lakhov-statistics\include\stohastic_variable_app.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\lakhov-statistics\src\stohastic_variable.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\lakhov-statistics\src\stohastic_variable_app.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\lakhov-statistics\test\test_main.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\lakhov-statistics\test\test_stohastic_variable.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\leftist-heap\application\leftist_heap.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\leftist-heap\include\leftist_heap.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\leftist-heap\include\leftist_heap_application.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\leftist-heap\src\leftist_heap.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\leftist-heap\src\leftist_heap_application.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\leftist-heap\test\test_leftist_heap.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\leftist-heap\test\test_leftist_heap_application.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\leftist-heap\test\test_main.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\line_intersection\application\application.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\line_intersection\include\line_intersection.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\line_intersection\include\line_intersection_app.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\line_intersection\src\line_intersection.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\line_intersection\src\line_intersection_app.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\line_intersection\test\test_line_intersection.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\line_intersection\test\test_main.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\lukashuk_d_pg\application\Permutations.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\lukashuk_d_pg\include\App.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\lukashuk_d_pg\include\PermutationGeneration.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\lukashuk_d_pg\src\App.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\lukashuk_d_pg\src\PermutationGeneration.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\lukashuk_d_pg\test\test.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\lukashuk_d_pg\test\test_main.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\miheev_ivan_d-ary_heap\application\application.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\miheev_ivan_d-ary_heap\include\DHeap.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\miheev_ivan_d-ary_heap\include\DHeap_application.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\miheev_ivan_d-ary_heap\src\DHeap.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\miheev_ivan_d-ary_heap\src\DHeap_application.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\miheev_ivan_d-ary_heap\test\test_heap.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\miheev_ivan_d-ary_heap\test\test_main.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\myasnikova_pseudographics\application\application.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\myasnikova_pseudographics\include\myasnikova_pseudographics.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\myasnikova_pseudographics\include\myasnikova_pseudographics_app.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\myasnikova_pseudographics\src\myasnikova_pseudographics.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\myasnikova_pseudographics\src\myasnikova_pseudographics_app.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\myasnikova_pseudographics\test\test_main.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\myasnikova_pseudographics\test\test_pseudographics.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\novozhilov-alexandr-prime-numbers\application\application.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\novozhilov-alexandr-prime-numbers\include\prime_numbers.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\novozhilov-alexandr-prime-numbers\include\prime_numbers_application.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\novozhilov-alexandr-prime-numbers\src\prime_numbers.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\novozhilov-alexandr-prime-numbers\src\prime_numbers_application.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\novozhilov-alexandr-prime-numbers\test\test.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\novozhilov-alexandr-prime-numbers\test\test_main.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\olynin_a_cross_line_and_plane\application\application.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\olynin_a_cross_line_and_plane\include\cross_line_and_plane.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\olynin_a_cross_line_and_plane\include\cross_line_and_plane_app.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\olynin_a_cross_line_and_plane\src\cross_line_and_plane.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\olynin_a_cross_line_and_plane\src\cross_line_and_plane_app.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\olynin_a_cross_line_and_plane\test\test_cross_line_and_plane.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\olynin_a_cross_line_and_plane\test\test_main.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\oskin_g_equation\include\equation.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\oskin_g_equation\src\equation.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\oskin_g_equation\test\test_equation.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\oskin_g_equation\test\test_main.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\pichugin_i_sort\application\application.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\pichugin_i_sort\include\sort_selection.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\pichugin_i_sort\include\sort_selection_application.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\pichugin_i_sort\src\sort_selection.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\pichugin_i_sort\src\sort_selection_application.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\pichugin_i_sort\test\test.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\pichugin_i_sort\test\test_main.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\polygon_area\application\polygon_area.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\polygon_area\include\polygon_area.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\polygon_area\include\polygon_area_app.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\polygon_area\src\polygon_area.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\polygon_area\src\polygon_area_app.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\polygon_area\test\test_main.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\polygon_area\test\test_polygon_area.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\popp_maksim_template_binary_heap\application\heap_app.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\popp_maksim_template_binary_heap\include\template_heap.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\popp_maksim_template_binary_heap\include\template_heap_app.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\popp_maksim_template_binary_heap\src\template_heap.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\popp_maksim_template_binary_heap\src\template_heap_app.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\popp_maksim_template_binary_heap\test\test_main.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\popp_maksim_template_binary_heap\test\test_template_heap.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\popp_maksim_template_binary_heap\test\test_template_heap_app.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\pyatckin_nikolay_rb_tree\include\rb_operation.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\pyatckin_nikolay_rb_tree\include\rb_tree.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\pyatckin_nikolay_rb_tree\src\rb_operation.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\pyatckin_nikolay_rb_tree\src\rb_tree.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\pyatckin_nikolay_rb_tree\test\test_main.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\pyatckin_nikolay_rb_tree\test\test_rb_tree.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\radix_sort_dydykin\application\application.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\radix_sort_dydykin\include\radix_sort.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\radix_sort_dydykin\include\radix_sort_app.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\radix_sort_dydykin\src\radix_sort.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\radix_sort_dydykin\src\radix_sort_app.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\radix_sort_dydykin\test\test_main.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\radix_sort_dydykin\test\test_radix_sort.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\remizova_matrix\application\application.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\remizova_matrix\include\matrix_app.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\remizova_matrix\include\remizova_a_matrix.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\remizova_matrix\src\matrix_app.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\remizova_matrix\src\remizova_a_matrix.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\remizova_matrix\test\test_main.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\remizova_matrix\test\test_matrix.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\remizova_matrix\test\test_matrix_calc.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\samoiluk_a_stack\application\stack.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\samoiluk_a_stack\include\stack.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\samoiluk_a_stack\include\stack_application.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\samoiluk_a_stack\src\stack.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\samoiluk_a_stack\src\stack_application.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\samoiluk_a_stack\test\test_main.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\samoiluk_a_stack\test\test_stack.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\shatalin-dmitrii-deposit-calculator\application\application.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\shatalin-dmitrii-deposit-calculator\include\deposit_calculator.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\shatalin-dmitrii-deposit-calculator\include\deposit_calculator_application.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\shatalin-dmitrii-deposit-calculator\src\deposit_calculator.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\shatalin-dmitrii-deposit-calculator\src\deposit_calculator_application.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\shatalin-dmitrii-deposit-calculator\test\test.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\shatalin-dmitrii-deposit-calculator\test\test_main.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\shelepin_n_simpson\include\simpson.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\shelepin_n_simpson\src\simpson.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\shelepin_n_simpson\test\test_main.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\shelepin_n_simpson\test\test_simpson.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\shurygina_rev_pol_notat\include\lexem.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\shurygina_rev_pol_notat\include\polish_notation.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\shurygina_rev_pol_notat\include\stack.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\shurygina_rev_pol_notat\src\polish_notation.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\shurygina_rev_pol_notat\test\test_main.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\shurygina_rev_pol_notat\test\test_polish_notation.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\soldatov_figure_area\application\application.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\soldatov_figure_area\include\figure_area_application.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\soldatov_figure_area\include\soldatov_figure_area.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\soldatov_figure_area\src\figure_area_application.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\soldatov_figure_area\src\soldatov_figure_area.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\soldatov_figure_area\test\test.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\soldatov_figure_area\test\test_main.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\trevogin_kirill_maxpos\application\maxpos.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\trevogin_kirill_maxpos\include\app.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\trevogin_kirill_maxpos\include\trevogin_kirill_maxpos.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\trevogin_kirill_maxpos\src\app.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\trevogin_kirill_maxpos\src\trevogin_kirill_maxpos.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\trevogin_kirill_maxpos\test\test.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\trevogin_kirill_maxpos\test\test_main.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\troegubova_numeric_interval\application\numeric_interval.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\troegubova_numeric_interval\include\numeric_interval.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\troegubova_numeric_interval\include\numeric_interval_app.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\troegubova_numeric_interval\src\numeric_interval.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\troegubova_numeric_interval\src\numeric_interval_app.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\troegubova_numeric_interval\test\test_main.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\troegubova_numeric_interval\test\test_troegubova_numeric_interval.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\trukhanov_a_queue\application\application.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\trukhanov_a_queue\include\queue_application.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\trukhanov_a_queue\include\trukhanov_a_queue.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\trukhanov_a_queue\src\queue_application.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\trukhanov_a_queue\src\trukhanov_a_queue.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\trukhanov_a_queue\test\test_main.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\trukhanov_a_queue\test\test_queue.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\ustiuzhanin_n_hashmap\application\application.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\ustiuzhanin_n_hashmap\include\hashmap.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\ustiuzhanin_n_hashmap\include\hashmap_app.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\ustiuzhanin_n_hashmap\src\hashmap.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\ustiuzhanin_n_hashmap\src\hashmap_app.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\ustiuzhanin_n_hashmap\test\test_Ustiuzhanin_Nikita_hashmap.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\ustiuzhanin_n_hashmap\test\test_main.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\vanyushkov_m_ratio\application\application.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\vanyushkov_m_ratio\include\ratio.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\vanyushkov_m_ratio\include\ratio_app.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\vanyushkov_m_ratio\src\ratio.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\vanyushkov_m_ratio\src\ratio_app.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\vanyushkov_m_ratio\test\test_main.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\vanyushkov_m_ratio\test\test_ratio.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\vector-distances\application\application.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\vector-distances\include\vector-distances.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\vector-distances\include\vector-distances_app.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\vector-distances\src\vector-distances.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\vector-distances\src\vector-distances_app.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\vector-distances\test\test_main.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\vector-distances\test\test_vector_distances.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\vector3d_operations\include\vector3d_operations.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\vector3d_operations\src\vector3d_operations.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\vector3d_operations\test\test_main.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\vector3d_operations\test\test_vector3d_operations.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\yashin_kirill_binary_search\application\application.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\yashin_kirill_binary_search\include\binary_search.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\yashin_kirill_binary_search\include\binary_search_application.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\yashin_kirill_binary_search\src\binary_search.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\yashin_kirill_binary_search\src\binary_search_application.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\yashin_kirill_binary_search\test\test_binary_search.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\yashin_kirill_binary_search\test\test_main.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\zaitsev_a_number_translation\include\number_translation.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\zaitsev_a_number_translation\src\number_translation.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\zaitsev_a_number_translation\test\test_main.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\zaitsev_a_number_translation\test\test_number_translation.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\zaitseva_k_priority_queue\include\priority_queue.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\zaitseva_k_priority_queue\src\priority_queue.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\zaitseva_k_priority_queue\test\test.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\zaitseva_k_priority_queue\test\test_main.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\zarubin_mikhail_binary_tree\application\binary_tree.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\zarubin_mikhail_binary_tree\include\binary_tree.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\zarubin_mikhail_binary_tree\include\binary_tree_application.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\zarubin_mikhail_binary_tree\src\binary_tree.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\zarubin_mikhail_binary_tree\src\binary_tree_application.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\zarubin_mikhail_binary_tree\test\test_binary_tree.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\zarubin_mikhail_binary_tree\test\test_main.cpp">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\CMakeFiles\0ea214b9396c538c113f2cd30a6279b2\cpplint.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\run_cpplint.cmake" />
+    <None Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\CMakeFiles\cpplint" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{751ACCF2-4229-38B6-891F-FAABAF592CE9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{919B6525-EF2D-302B-BA90-5BF66AB4036D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{74524D95-1642-3324-890C-91C299440DD0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

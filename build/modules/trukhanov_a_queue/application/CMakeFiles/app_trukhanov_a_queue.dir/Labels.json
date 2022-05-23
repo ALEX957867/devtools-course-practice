@@ -1,0 +1,22 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/trukhanov_a_queue/application/application.cpp",
+			"labels" : 
+			[
+				"trukhanov_a_queue",
+				"Application"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"trukhanov_a_queue",
+			"Application"
+		],
+		"name" : "app_trukhanov_a_queue"
+	}
+}

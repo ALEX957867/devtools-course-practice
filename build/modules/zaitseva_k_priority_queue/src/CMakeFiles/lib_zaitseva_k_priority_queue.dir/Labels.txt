@@ -1,0 +1,10 @@
+# Target labels
+ zaitseva_k_priority_queue
+ Library
+# Source files and their labels
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/zaitseva_k_priority_queue/src/priority_queue.cpp
+ zaitseva_k_priority_queue
+ Library
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/zaitseva_k_priority_queue/include/priority_queue.h
+ zaitseva_k_priority_queue
+ Library

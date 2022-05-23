@@ -1,0 +1,10 @@
+# Target labels
+ kuklin_andrey_modified_stack
+ Test
+# Source files and their labels
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/kuklin_andrey_modified_stack/test/test_main.cpp
+ kuklin_andrey_modified_stack
+ Test
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/kuklin_andrey_modified_stack/test/test_modified_stack.cpp
+ kuklin_andrey_modified_stack
+ Test

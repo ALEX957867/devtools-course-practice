@@ -1,0 +1,30 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/balova_e_interpolation_search/test/test_interpolation_search.cpp",
+			"labels" : 
+			[
+				"balova_e_interpolation_search",
+				"Test"
+			]
+		},
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/balova_e_interpolation_search/test/test_main.cpp",
+			"labels" : 
+			[
+				"balova_e_interpolation_search",
+				"Test"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"balova_e_interpolation_search",
+			"Test"
+		],
+		"name" : "test_balova_e_interpolation_search"
+	}
+}

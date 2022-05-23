@@ -1,0 +1,30 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/gordeev_avl_tree/test/test_gordeev_AVLTree.cpp",
+			"labels" : 
+			[
+				"gordeev_avl_tree",
+				"Test"
+			]
+		},
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/gordeev_avl_tree/test/test_main.cpp",
+			"labels" : 
+			[
+				"gordeev_avl_tree",
+				"Test"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"gordeev_avl_tree",
+			"Test"
+		],
+		"name" : "test_gordeev_avl_tree"
+	}
+}

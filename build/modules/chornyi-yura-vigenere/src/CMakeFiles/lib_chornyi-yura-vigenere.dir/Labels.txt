@@ -1,0 +1,16 @@
+# Target labels
+ chornyi-yura-vigenere
+ Library
+# Source files and their labels
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/chornyi-yura-vigenere/src/vigenere_cipher.cpp
+ chornyi-yura-vigenere
+ Library
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/chornyi-yura-vigenere/src/vigenere_cipher_app.cpp
+ chornyi-yura-vigenere
+ Library
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/chornyi-yura-vigenere/include/vigenere_cipher.h
+ chornyi-yura-vigenere
+ Library
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/chornyi-yura-vigenere/include/vigenere_cipher_app.h
+ chornyi-yura-vigenere
+ Library

@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/kim_nikita_gronsfeld_cipher/src/gronsfeld_app.cpp",
+			"labels" : 
+			[
+				"kim_nikita_gronsfeld_cipher",
+				"Library"
+			]
+		},
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/kim_nikita_gronsfeld_cipher/src/kim_nikita_gronsfeld_cipher.cpp",
+			"labels" : 
+			[
+				"kim_nikita_gronsfeld_cipher",
+				"Library"
+			]
+		},
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/kim_nikita_gronsfeld_cipher/include/gronsfeld_app.h",
+			"labels" : 
+			[
+				"kim_nikita_gronsfeld_cipher",
+				"Library"
+			]
+		},
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/kim_nikita_gronsfeld_cipher/include/kim_nikita_gronsfeld_cipher.h",
+			"labels" : 
+			[
+				"kim_nikita_gronsfeld_cipher",
+				"Library"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"kim_nikita_gronsfeld_cipher",
+			"Library"
+		],
+		"name" : "lib_kim_nikita_gronsfeld_cipher"
+	}
+}

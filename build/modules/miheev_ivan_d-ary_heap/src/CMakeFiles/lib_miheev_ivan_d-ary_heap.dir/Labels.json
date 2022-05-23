@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/miheev_ivan_d-ary_heap/src/DHeap.cpp",
+			"labels" : 
+			[
+				"miheev_ivan_d-ary_heap",
+				"Library"
+			]
+		},
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/miheev_ivan_d-ary_heap/src/DHeap_application.cpp",
+			"labels" : 
+			[
+				"miheev_ivan_d-ary_heap",
+				"Library"
+			]
+		},
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/miheev_ivan_d-ary_heap/include/DHeap.h",
+			"labels" : 
+			[
+				"miheev_ivan_d-ary_heap",
+				"Library"
+			]
+		},
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/miheev_ivan_d-ary_heap/include/DHeap_application.h",
+			"labels" : 
+			[
+				"miheev_ivan_d-ary_heap",
+				"Library"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"miheev_ivan_d-ary_heap",
+			"Library"
+		],
+		"name" : "lib_miheev_ivan_d-ary_heap"
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/calculate-price/application/application.cpp",
+			"labels" : 
+			[
+				"calculate-price",
+				"Application"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"calculate-price",
+			"Application"
+		],
+		"name" : "app_calculate-price"
+	}
+}

@@ -1,0 +1,16 @@
+# Target labels
+ balova_e_interpolation_search
+ Library
+# Source files and their labels
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/balova_e_interpolation_search/src/interpolation_app.cpp
+ balova_e_interpolation_search
+ Library
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/balova_e_interpolation_search/src/interpolation_search.cpp
+ balova_e_interpolation_search
+ Library
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/balova_e_interpolation_search/include/interpolation_app.h
+ balova_e_interpolation_search
+ Library
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/balova_e_interpolation_search/include/interpolation_search.h
+ balova_e_interpolation_search
+ Library

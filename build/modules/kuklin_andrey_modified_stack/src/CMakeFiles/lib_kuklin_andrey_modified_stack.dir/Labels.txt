@@ -1,0 +1,16 @@
+# Target labels
+ kuklin_andrey_modified_stack
+ Library
+# Source files and their labels
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/kuklin_andrey_modified_stack/src/modified_stack.cpp
+ kuklin_andrey_modified_stack
+ Library
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/kuklin_andrey_modified_stack/src/modified_stack_application.cpp
+ kuklin_andrey_modified_stack
+ Library
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/kuklin_andrey_modified_stack/include/modified_stack.h
+ kuklin_andrey_modified_stack
+ Library
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/kuklin_andrey_modified_stack/include/modified_stack_application.h
+ kuklin_andrey_modified_stack
+ Library

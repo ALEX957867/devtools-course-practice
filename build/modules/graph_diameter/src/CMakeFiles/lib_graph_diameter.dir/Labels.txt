@@ -1,0 +1,16 @@
+# Target labels
+ graph_diameter
+ Library
+# Source files and their labels
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/graph_diameter/src/graph_diameter.cpp
+ graph_diameter
+ Library
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/graph_diameter/src/graph_diameter_app.cpp
+ graph_diameter
+ Library
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/graph_diameter/include/graph_diameter.h
+ graph_diameter
+ Library
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/graph_diameter/include/graph_diameter_app.h
+ graph_diameter
+ Library

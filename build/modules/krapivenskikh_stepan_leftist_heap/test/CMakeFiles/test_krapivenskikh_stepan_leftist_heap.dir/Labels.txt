@@ -1,0 +1,13 @@
+# Target labels
+ krapivenskikh_stepan_leftist_heap
+ Test
+# Source files and their labels
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/krapivenskikh_stepan_leftist_heap/test/test_leftist_heap.cpp
+ krapivenskikh_stepan_leftist_heap
+ Test
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/krapivenskikh_stepan_leftist_heap/test/test_leftist_heap_application.cpp
+ krapivenskikh_stepan_leftist_heap
+ Test
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/krapivenskikh_stepan_leftist_heap/test/test_main.cpp
+ krapivenskikh_stepan_leftist_heap
+ Test

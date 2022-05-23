@@ -1,0 +1,10 @@
+# Target labels
+ graph-num-comp
+ Library
+# Source files and their labels
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/graph-num-comp/src/num_comp.cpp
+ graph-num-comp
+ Library
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/graph-num-comp/include/num_comp.h
+ graph-num-comp
+ Library

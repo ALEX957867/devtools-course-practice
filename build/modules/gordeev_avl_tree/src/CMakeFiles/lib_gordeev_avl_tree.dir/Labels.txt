@@ -1,0 +1,10 @@
+# Target labels
+ gordeev_avl_tree
+ Library
+# Source files and their labels
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/gordeev_avl_tree/src/AVLTree.cpp
+ gordeev_avl_tree
+ Library
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/gordeev_avl_tree/include/AVLTree.h
+ gordeev_avl_tree
+ Library

@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/soldatov_figure_area/src/figure_area_application.cpp",
+			"labels" : 
+			[
+				"soldatov_figure_area",
+				"Library"
+			]
+		},
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/soldatov_figure_area/src/soldatov_figure_area.cpp",
+			"labels" : 
+			[
+				"soldatov_figure_area",
+				"Library"
+			]
+		},
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/soldatov_figure_area/include/figure_area_application.h",
+			"labels" : 
+			[
+				"soldatov_figure_area",
+				"Library"
+			]
+		},
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/soldatov_figure_area/include/soldatov_figure_area.h",
+			"labels" : 
+			[
+				"soldatov_figure_area",
+				"Library"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"soldatov_figure_area",
+			"Library"
+		],
+		"name" : "lib_soldatov_figure_area"
+	}
+}

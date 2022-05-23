@@ -1,0 +1,30 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/shelepin_n_simpson/test/test_main.cpp",
+			"labels" : 
+			[
+				"shelepin_n_simpson",
+				"Test"
+			]
+		},
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/shelepin_n_simpson/test/test_simpson.cpp",
+			"labels" : 
+			[
+				"shelepin_n_simpson",
+				"Test"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"shelepin_n_simpson",
+			"Test"
+		],
+		"name" : "test_shelepin_n_simpson"
+	}
+}

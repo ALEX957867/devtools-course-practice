@@ -1,0 +1,13 @@
+# Target labels
+ remizova_matrix
+ Test
+# Source files and their labels
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/remizova_matrix/test/test_main.cpp
+ remizova_matrix
+ Test
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/remizova_matrix/test/test_matrix.cpp
+ remizova_matrix
+ Test
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/remizova_matrix/test/test_matrix_calc.cpp
+ remizova_matrix
+ Test

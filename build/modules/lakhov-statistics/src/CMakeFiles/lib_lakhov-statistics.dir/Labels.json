@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/lakhov-statistics/src/stohastic_variable.cpp",
+			"labels" : 
+			[
+				"lakhov-statistics",
+				"Library"
+			]
+		},
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/lakhov-statistics/src/stohastic_variable_app.cpp",
+			"labels" : 
+			[
+				"lakhov-statistics",
+				"Library"
+			]
+		},
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/lakhov-statistics/include/stohastic_variable.h",
+			"labels" : 
+			[
+				"lakhov-statistics",
+				"Library"
+			]
+		},
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/lakhov-statistics/include/stohastic_variable_app.h",
+			"labels" : 
+			[
+				"lakhov-statistics",
+				"Library"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"lakhov-statistics",
+			"Library"
+		],
+		"name" : "lib_lakhov-statistics"
+	}
+}

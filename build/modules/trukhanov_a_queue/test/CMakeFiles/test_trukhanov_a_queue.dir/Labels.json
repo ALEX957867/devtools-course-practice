@@ -1,0 +1,30 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/trukhanov_a_queue/test/test_main.cpp",
+			"labels" : 
+			[
+				"trukhanov_a_queue",
+				"Test"
+			]
+		},
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/trukhanov_a_queue/test/test_queue.cpp",
+			"labels" : 
+			[
+				"trukhanov_a_queue",
+				"Test"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"trukhanov_a_queue",
+			"Test"
+		],
+		"name" : "test_trukhanov_a_queue"
+	}
+}

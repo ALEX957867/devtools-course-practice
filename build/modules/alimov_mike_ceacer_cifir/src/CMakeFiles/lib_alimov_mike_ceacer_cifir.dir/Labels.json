@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/alimov_mike_ceacer_cifir/src/alimov_mike_ceacer_cifir.cpp",
+			"labels" : 
+			[
+				"alimov_mike_ceacer_cifir",
+				"Library"
+			]
+		},
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/alimov_mike_ceacer_cifir/src/alimov_mike_ceacer_cifir_application.cpp",
+			"labels" : 
+			[
+				"alimov_mike_ceacer_cifir",
+				"Library"
+			]
+		},
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/alimov_mike_ceacer_cifir/include/alimov_mike_ceacer_cifir.h",
+			"labels" : 
+			[
+				"alimov_mike_ceacer_cifir",
+				"Library"
+			]
+		},
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/alimov_mike_ceacer_cifir/include/alimov_mike_ceacer_cifir_application.h",
+			"labels" : 
+			[
+				"alimov_mike_ceacer_cifir",
+				"Library"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"alimov_mike_ceacer_cifir",
+			"Library"
+		],
+		"name" : "lib_alimov_mike_ceacer_cifir"
+	}
+}

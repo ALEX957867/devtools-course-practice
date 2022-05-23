@@ -1,0 +1,30 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/soldatov_figure_area/test/test.cpp",
+			"labels" : 
+			[
+				"soldatov_figure_area",
+				"Test"
+			]
+		},
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/soldatov_figure_area/test/test_main.cpp",
+			"labels" : 
+			[
+				"soldatov_figure_area",
+				"Test"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"soldatov_figure_area",
+			"Test"
+		],
+		"name" : "test_soldatov_figure_area"
+	}
+}

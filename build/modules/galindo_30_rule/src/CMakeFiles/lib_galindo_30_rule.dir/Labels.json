@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/galindo_30_rule/src/cellular_state_application.cpp",
+			"labels" : 
+			[
+				"galindo_30_rule",
+				"Library"
+			]
+		},
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/galindo_30_rule/src/galindo_30_rule.cpp",
+			"labels" : 
+			[
+				"galindo_30_rule",
+				"Library"
+			]
+		},
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/galindo_30_rule/include/cellular_state_application.h",
+			"labels" : 
+			[
+				"galindo_30_rule",
+				"Library"
+			]
+		},
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/galindo_30_rule/include/galindo_30_rule.h",
+			"labels" : 
+			[
+				"galindo_30_rule",
+				"Library"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"galindo_30_rule",
+			"Library"
+		],
+		"name" : "lib_galindo_30_rule"
+	}
+}

@@ -1,0 +1,16 @@
+# Target labels
+ radix_sort_dydykin
+ Library
+# Source files and their labels
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/radix_sort_dydykin/src/radix_sort.cpp
+ radix_sort_dydykin
+ Library
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/radix_sort_dydykin/src/radix_sort_app.cpp
+ radix_sort_dydykin
+ Library
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/radix_sort_dydykin/include/radix_sort.h
+ radix_sort_dydykin
+ Library
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/radix_sort_dydykin/include/radix_sort_app.h
+ radix_sort_dydykin
+ Library

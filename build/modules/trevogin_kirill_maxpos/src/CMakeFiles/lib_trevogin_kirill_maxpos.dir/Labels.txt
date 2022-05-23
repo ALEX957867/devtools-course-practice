@@ -1,0 +1,16 @@
+# Target labels
+ trevogin_kirill_maxpos
+ Library
+# Source files and their labels
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/trevogin_kirill_maxpos/src/app.cpp
+ trevogin_kirill_maxpos
+ Library
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/trevogin_kirill_maxpos/src/trevogin_kirill_maxpos.cpp
+ trevogin_kirill_maxpos
+ Library
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/trevogin_kirill_maxpos/include/app.h
+ trevogin_kirill_maxpos
+ Library
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/trevogin_kirill_maxpos/include/trevogin_kirill_maxpos.h
+ trevogin_kirill_maxpos
+ Library

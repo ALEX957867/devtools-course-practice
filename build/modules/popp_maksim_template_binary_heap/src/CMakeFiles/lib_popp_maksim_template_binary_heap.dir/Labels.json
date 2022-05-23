@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/popp_maksim_template_binary_heap/src/template_heap.cpp",
+			"labels" : 
+			[
+				"popp_maksim_template_binary_heap",
+				"Library"
+			]
+		},
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/popp_maksim_template_binary_heap/src/template_heap_app.cpp",
+			"labels" : 
+			[
+				"popp_maksim_template_binary_heap",
+				"Library"
+			]
+		},
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/popp_maksim_template_binary_heap/include/template_heap.h",
+			"labels" : 
+			[
+				"popp_maksim_template_binary_heap",
+				"Library"
+			]
+		},
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/popp_maksim_template_binary_heap/include/template_heap_app.h",
+			"labels" : 
+			[
+				"popp_maksim_template_binary_heap",
+				"Library"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"popp_maksim_template_binary_heap",
+			"Library"
+		],
+		"name" : "lib_popp_maksim_template_binary_heap"
+	}
+}

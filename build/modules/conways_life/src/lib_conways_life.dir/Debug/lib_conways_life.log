@@ -1,0 +1,5 @@
+﻿  Building Custom Rule C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/conways_life/src/CMakeLists.txt
+  conways_life.cpp
+C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\conways_life\src\conways_life.cpp(30,31): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\conways_life\src\conways_life.cpp(30,59): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  lib_conways_life.vcxproj -> C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\lib\conways_life.lib

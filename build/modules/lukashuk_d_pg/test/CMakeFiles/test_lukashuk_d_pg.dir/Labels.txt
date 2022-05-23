@@ -1,0 +1,10 @@
+# Target labels
+ lukashuk_d_pg
+ Test
+# Source files and their labels
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/lukashuk_d_pg/test/test.cpp
+ lukashuk_d_pg
+ Test
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/lukashuk_d_pg/test/test_main.cpp
+ lukashuk_d_pg
+ Test

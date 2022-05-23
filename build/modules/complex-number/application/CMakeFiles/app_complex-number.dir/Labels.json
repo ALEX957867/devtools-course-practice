@@ -1,0 +1,22 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/complex-number/application/complex-number.cpp",
+			"labels" : 
+			[
+				"complex-number",
+				"Application"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"complex-number",
+			"Application"
+		],
+		"name" : "app_complex-number"
+	}
+}

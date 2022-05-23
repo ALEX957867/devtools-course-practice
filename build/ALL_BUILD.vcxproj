@@ -1,0 +1,811 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PreferredToolArchitecture>x64</PreferredToolArchitecture>
+  </PropertyGroup>
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{5EB40B67-4C9F-35FC-82BF-7FA6696D5AA5}</ProjectGuid>
+    <WindowsTargetPlatformVersion>10.0.18362.0</WindowsTargetPlatformVersion>
+    <Keyword>Win32Proj</Keyword>
+    <Platform>x64</Platform>
+    <ProjectName>ALL_BUILD</ProjectName>
+    <VCProjectUpgraderObjectName>NoUpgrade</VCProjectUpgraderObjectName>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v142</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v142</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup>
+    <_ProjectFileVersion>10.0.20506.1</_ProjectFileVersion>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Midl>
+      <AdditionalIncludeDirectories>C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\3rdparty;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Midl>
+      <AdditionalIncludeDirectories>C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\3rdparty;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\CMakeLists.txt">
+      <StdOutEncoding>UTF-8</StdOutEncoding>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Building Custom Rule C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">setlocal
+E:\bin\cmake.exe -SC:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3 -BC:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/build --check-stamp-file C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\CMakeFiles\3.22.0\CMakeCCompiler.cmake;C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\CMakeFiles\3.22.0\CMakeCXXCompiler.cmake;C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\CMakeFiles\3.22.0\CMakeRCCompiler.cmake;C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\CMakeFiles\3.22.0\CMakeSystem.cmake;E:\share\cmake-3.22\Modules\CMakeCCompiler.cmake.in;E:\share\cmake-3.22\Modules\CMakeCCompilerABI.c;E:\share\cmake-3.22\Modules\CMakeCInformation.cmake;E:\share\cmake-3.22\Modules\CMakeCXXCompiler.cmake.in;E:\share\cmake-3.22\Modules\CMakeCXXCompilerABI.cpp;E:\share\cmake-3.22\Modules\CMakeCXXInformation.cmake;E:\share\cmake-3.22\Modules\CMakeCommonLanguageInclude.cmake;E:\share\cmake-3.22\Modules\CMakeCompilerIdDetection.cmake;E:\share\cmake-3.22\Modules\CMakeDetermineCCompiler.cmake;E:\share\cmake-3.22\Modules\CMakeDetermineCXXCompiler.cmake;E:\share\cmake-3.22\Modules\CMakeDetermineCompileFeatures.cmake;E:\share\cmake-3.22\Modules\CMakeDetermineCompiler.cmake;E:\share\cmake-3.22\Modules\CMakeDetermineCompilerABI.cmake;E:\share\cmake-3.22\Modules\CMakeDetermineCompilerId.cmake;E:\share\cmake-3.22\Modules\CMakeDetermineRCCompiler.cmake;E:\share\cmake-3.22\Modules\CMakeDetermineSystem.cmake;E:\share\cmake-3.22\Modules\CMakeFindBinUtils.cmake;E:\share\cmake-3.22\Modules\CMakeGenericSystem.cmake;E:\share\cmake-3.22\Modules\CMakeInitializeConfigs.cmake;E:\share\cmake-3.22\Modules\CMakeLanguageInformation.cmake;E:\share\cmake-3.22\Modules\CMakeParseImplicitIncludeInfo.cmake;E:\share\cmake-3.22\Modules\CMakeParseImplicitLinkInfo.cmake;E:\share\cmake-3.22\Modules\CMakeParseLibraryArchitecture.cmake;E:\share\cmake-3.22\Modules\CMakeRCCompiler.cmake.in;E:\share\cmake-3.22\Modules\CMakeRCInformation.cmake;E:\share\cmake-3.22\Modules\CMakeSystem.cmake.in;E:\share\cmake-3.22\Modules\CMakeSystemSpecificInformation.cmake;E:\share\cmake-3.22\Modules\CMakeSystemSpecificInitialize.cmake;E:\share\cmake-3.22\Modules\CMakeTestCCompiler.cmake;E:\share\cmake-3.22\Modules\CMakeTestCXXCompiler.cmake;E:\share\cmake-3.22\Modules\CMakeTestCompilerCommon.cmake;E:\share\cmake-3.22\Modules\CMakeTestRCCompiler.cmake;E:\share\cmake-3.22\Modules\Compiler\ADSP-DetermineCompiler.cmake;E:\share\cmake-3.22\Modules\Compiler\ARMCC-DetermineCompiler.cmake;E:\share\cmake-3.22\Modules\Compiler\ARMClang-DetermineCompiler.cmake;E:\share\cmake-3.22\Modules\Compiler\AppleClang-DetermineCompiler.cmake;E:\share\cmake-3.22\Modules\Compiler\Borland-DetermineCompiler.cmake;E:\share\cmake-3.22\Modules\Compiler\Bruce-C-DetermineCompiler.cmake;E:\share\cmake-3.22\Modules\Compiler\CMakeCommonCompilerMacros.cmake;E:\share\cmake-3.22\Modules\Compiler\Clang-DetermineCompiler.cmake;E:\share\cmake-3.22\Modules\Compiler\Clang-DetermineCompilerInternal.cmake;E:\share\cmake-3.22\Modules\Compiler\Comeau-CXX-DetermineCompiler.cmake;E:\share\cmake-3.22\Modules\Compiler\Compaq-C-DetermineCompiler.cmake;E:\share\cmake-3.22\Modules\Compiler\Compaq-CXX-DetermineCompiler.cmake;E:\share\cmake-3.22\Modules\Compiler\Cray-DetermineCompiler.cmake;E:\share\cmake-3.22\Modules\Compiler\Embarcadero-DetermineCompiler.cmake;E:\share\cmake-3.22\Modules\Compiler\Fujitsu-DetermineCompiler.cmake;E:\share\cmake-3.22\Modules\Compiler\FujitsuClang-DetermineCompiler.cmake;E:\share\cmake-3.22\Modules\Compiler\GHS-DetermineCompiler.cmake;E:\share\cmake-3.22\Modules\Compiler\GNU-C-DetermineCompiler.cmake;E:\share\cmake-3.22\Modules\Compiler\GNU-CXX-DetermineCompiler.cmake;E:\share\cmake-3.22\Modules\Compiler\HP-C-DetermineCompiler.cmake;E:\share\cmake-3.22\Modules\Compiler\HP-CXX-DetermineCompiler.cmake;E:\share\cmake-3.22\Modules\Compiler\IAR-DetermineCompiler.cmake;E:\share\cmake-3.22\Modules\Compiler\IBMCPP-C-DetermineVersionInternal.cmake;E:\share\cmake-3.22\Modules\Compiler\IBMCPP-CXX-DetermineVersionInternal.cmake;E:\share\cmake-3.22\Modules\Compiler\Intel-DetermineCompiler.cmake;E:\share\cmake-3.22\Modules\Compiler\IntelLLVM-DetermineCompiler.cmake;E:\share\cmake-3.22\Modules\Compiler\MSVC-C.cmake;E:\share\cmake-3.22\Modules\Compiler\MSVC-CXX.cmake;E:\share\cmake-3.22\Modules\Compiler\MSVC-DetermineCompiler.cmake;E:\share\cmake-3.22\Modules\Compiler\NVHPC-DetermineCompiler.cmake;E:\share\cmake-3.22\Modules\Compiler\NVIDIA-DetermineCompiler.cmake;E:\share\cmake-3.22\Modules\Compiler\OpenWatcom-DetermineCompiler.cmake;E:\share\cmake-3.22\Modules\Compiler\PGI-DetermineCompiler.cmake;E:\share\cmake-3.22\Modules\Compiler\PathScale-DetermineCompiler.cmake;E:\share\cmake-3.22\Modules\Compiler\SCO-DetermineCompiler.cmake;E:\share\cmake-3.22\Modules\Compiler\SDCC-C-DetermineCompiler.cmake;E:\share\cmake-3.22\Modules\Compiler\SunPro-C-DetermineCompiler.cmake;E:\share\cmake-3.22\Modules\Compiler\SunPro-CXX-DetermineCompiler.cmake;E:\share\cmake-3.22\Modules\Compiler\TI-DetermineCompiler.cmake;E:\share\cmake-3.22\Modules\Compiler\TinyCC-C-DetermineCompiler.cmake;E:\share\cmake-3.22\Modules\Compiler\VisualAge-C-DetermineCompiler.cmake;E:\share\cmake-3.22\Modules\Compiler\VisualAge-CXX-DetermineCompiler.cmake;E:\share\cmake-3.22\Modules\Compiler\Watcom-DetermineCompiler.cmake;E:\share\cmake-3.22\Modules\Compiler\XL-C-DetermineCompiler.cmake;E:\share\cmake-3.22\Modules\Compiler\XL-CXX-DetermineCompiler.cmake;E:\share\cmake-3.22\Modules\Compiler\XLClang-C-DetermineCompiler.cmake;E:\share\cmake-3.22\Modules\Compiler\XLClang-CXX-DetermineCompiler.cmake;E:\share\cmake-3.22\Modules\Compiler\zOS-C-DetermineCompiler.cmake;E:\share\cmake-3.22\Modules\Compiler\zOS-CXX-DetermineCompiler.cmake;E:\share\cmake-3.22\Modules\CompilerId\VS-10.vcxproj.in;E:\share\cmake-3.22\Modules\FindPackageHandleStandardArgs.cmake;E:\share\cmake-3.22\Modules\FindPackageMessage.cmake;E:\share\cmake-3.22\Modules\FindPythonInterp.cmake;E:\share\cmake-3.22\Modules\Internal\FeatureTesting.cmake;E:\share\cmake-3.22\Modules\Platform\Windows-Determine-CXX.cmake;E:\share\cmake-3.22\Modules\Platform\Windows-MSVC-C.cmake;E:\share\cmake-3.22\Modules\Platform\Windows-MSVC-CXX.cmake;E:\share\cmake-3.22\Modules\Platform\Windows-MSVC.cmake;E:\share\cmake-3.22\Modules\Platform\Windows.cmake;E:\share\cmake-3.22\Modules\Platform\WindowsPaths.cmake;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Building Custom Rule C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">setlocal
+E:\bin\cmake.exe -SC:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3 -BC:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/build --check-stamp-file C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\CMakeFiles\3.22.0\CMakeCCompiler.cmake;C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\CMakeFiles\3.22.0\CMakeCXXCompiler.cmake;C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\CMakeFiles\3.22.0\CMakeRCCompiler.cmake;C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\CMakeFiles\3.22.0\CMakeSystem.cmake;E:\share\cmake-3.22\Modules\CMakeCCompiler.cmake.in;E:\share\cmake-3.22\Modules\CMakeCCompilerABI.c;E:\share\cmake-3.22\Modules\CMakeCInformation.cmake;E:\share\cmake-3.22\Modules\CMakeCXXCompiler.cmake.in;E:\share\cmake-3.22\Modules\CMakeCXXCompilerABI.cpp;E:\share\cmake-3.22\Modules\CMakeCXXInformation.cmake;E:\share\cmake-3.22\Modules\CMakeCommonLanguageInclude.cmake;E:\share\cmake-3.22\Modules\CMakeCompilerIdDetection.cmake;E:\share\cmake-3.22\Modules\CMakeDetermineCCompiler.cmake;E:\share\cmake-3.22\Modules\CMakeDetermineCXXCompiler.cmake;E:\share\cmake-3.22\Modules\CMakeDetermineCompileFeatures.cmake;E:\share\cmake-3.22\Modules\CMakeDetermineCompiler.cmake;E:\share\cmake-3.22\Modules\CMakeDetermineCompilerABI.cmake;E:\share\cmake-3.22\Modules\CMakeDetermineCompilerId.cmake;E:\share\cmake-3.22\Modules\CMakeDetermineRCCompiler.cmake;E:\share\cmake-3.22\Modules\CMakeDetermineSystem.cmake;E:\share\cmake-3.22\Modules\CMakeFindBinUtils.cmake;E:\share\cmake-3.22\Modules\CMakeGenericSystem.cmake;E:\share\cmake-3.22\Modules\CMakeInitializeConfigs.cmake;E:\share\cmake-3.22\Modules\CMakeLanguageInformation.cmake;E:\share\cmake-3.22\Modules\CMakeParseImplicitIncludeInfo.cmake;E:\share\cmake-3.22\Modules\CMakeParseImplicitLinkInfo.cmake;E:\share\cmake-3.22\Modules\CMakeParseLibraryArchitecture.cmake;E:\share\cmake-3.22\Modules\CMakeRCCompiler.cmake.in;E:\share\cmake-3.22\Modules\CMakeRCInformation.cmake;E:\share\cmake-3.22\Modules\CMakeSystem.cmake.in;E:\share\cmake-3.22\Modules\CMakeSystemSpecificInformation.cmake;E:\share\cmake-3.22\Modules\CMakeSystemSpecificInitialize.cmake;E:\share\cmake-3.22\Modules\CMakeTestCCompiler.cmake;E:\share\cmake-3.22\Modules\CMakeTestCXXCompiler.cmake;E:\share\cmake-3.22\Modules\CMakeTestCompilerCommon.cmake;E:\share\cmake-3.22\Modules\CMakeTestRCCompiler.cmake;E:\share\cmake-3.22\Modules\Compiler\ADSP-DetermineCompiler.cmake;E:\share\cmake-3.22\Modules\Compiler\ARMCC-DetermineCompiler.cmake;E:\share\cmake-3.22\Modules\Compiler\ARMClang-DetermineCompiler.cmake;E:\share\cmake-3.22\Modules\Compiler\AppleClang-DetermineCompiler.cmake;E:\share\cmake-3.22\Modules\Compiler\Borland-DetermineCompiler.cmake;E:\share\cmake-3.22\Modules\Compiler\Bruce-C-DetermineCompiler.cmake;E:\share\cmake-3.22\Modules\Compiler\CMakeCommonCompilerMacros.cmake;E:\share\cmake-3.22\Modules\Compiler\Clang-DetermineCompiler.cmake;E:\share\cmake-3.22\Modules\Compiler\Clang-DetermineCompilerInternal.cmake;E:\share\cmake-3.22\Modules\Compiler\Comeau-CXX-DetermineCompiler.cmake;E:\share\cmake-3.22\Modules\Compiler\Compaq-C-DetermineCompiler.cmake;E:\share\cmake-3.22\Modules\Compiler\Compaq-CXX-DetermineCompiler.cmake;E:\share\cmake-3.22\Modules\Compiler\Cray-DetermineCompiler.cmake;E:\share\cmake-3.22\Modules\Compiler\Embarcadero-DetermineCompiler.cmake;E:\share\cmake-3.22\Modules\Compiler\Fujitsu-DetermineCompiler.cmake;E:\share\cmake-3.22\Modules\Compiler\FujitsuClang-DetermineCompiler.cmake;E:\share\cmake-3.22\Modules\Compiler\GHS-DetermineCompiler.cmake;E:\share\cmake-3.22\Modules\Compiler\GNU-C-DetermineCompiler.cmake;E:\share\cmake-3.22\Modules\Compiler\GNU-CXX-DetermineCompiler.cmake;E:\share\cmake-3.22\Modules\Compiler\HP-C-DetermineCompiler.cmake;E:\share\cmake-3.22\Modules\Compiler\HP-CXX-DetermineCompiler.cmake;E:\share\cmake-3.22\Modules\Compiler\IAR-DetermineCompiler.cmake;E:\share\cmake-3.22\Modules\Compiler\IBMCPP-C-DetermineVersionInternal.cmake;E:\share\cmake-3.22\Modules\Compiler\IBMCPP-CXX-DetermineVersionInternal.cmake;E:\share\cmake-3.22\Modules\Compiler\Intel-DetermineCompiler.cmake;E:\share\cmake-3.22\Modules\Compiler\IntelLLVM-DetermineCompiler.cmake;E:\share\cmake-3.22\Modules\Compiler\MSVC-C.cmake;E:\share\cmake-3.22\Modules\Compiler\MSVC-CXX.cmake;E:\share\cmake-3.22\Modules\Compiler\MSVC-DetermineCompiler.cmake;E:\share\cmake-3.22\Modules\Compiler\NVHPC-DetermineCompiler.cmake;E:\share\cmake-3.22\Modules\Compiler\NVIDIA-DetermineCompiler.cmake;E:\share\cmake-3.22\Modules\Compiler\OpenWatcom-DetermineCompiler.cmake;E:\share\cmake-3.22\Modules\Compiler\PGI-DetermineCompiler.cmake;E:\share\cmake-3.22\Modules\Compiler\PathScale-DetermineCompiler.cmake;E:\share\cmake-3.22\Modules\Compiler\SCO-DetermineCompiler.cmake;E:\share\cmake-3.22\Modules\Compiler\SDCC-C-DetermineCompiler.cmake;E:\share\cmake-3.22\Modules\Compiler\SunPro-C-DetermineCompiler.cmake;E:\share\cmake-3.22\Modules\Compiler\SunPro-CXX-DetermineCompiler.cmake;E:\share\cmake-3.22\Modules\Compiler\TI-DetermineCompiler.cmake;E:\share\cmake-3.22\Modules\Compiler\TinyCC-C-DetermineCompiler.cmake;E:\share\cmake-3.22\Modules\Compiler\VisualAge-C-DetermineCompiler.cmake;E:\share\cmake-3.22\Modules\Compiler\VisualAge-CXX-DetermineCompiler.cmake;E:\share\cmake-3.22\Modules\Compiler\Watcom-DetermineCompiler.cmake;E:\share\cmake-3.22\Modules\Compiler\XL-C-DetermineCompiler.cmake;E:\share\cmake-3.22\Modules\Compiler\XL-CXX-DetermineCompiler.cmake;E:\share\cmake-3.22\Modules\Compiler\XLClang-C-DetermineCompiler.cmake;E:\share\cmake-3.22\Modules\Compiler\XLClang-CXX-DetermineCompiler.cmake;E:\share\cmake-3.22\Modules\Compiler\zOS-C-DetermineCompiler.cmake;E:\share\cmake-3.22\Modules\Compiler\zOS-CXX-DetermineCompiler.cmake;E:\share\cmake-3.22\Modules\CompilerId\VS-10.vcxproj.in;E:\share\cmake-3.22\Modules\FindPackageHandleStandardArgs.cmake;E:\share\cmake-3.22\Modules\FindPackageMessage.cmake;E:\share\cmake-3.22\Modules\FindPythonInterp.cmake;E:\share\cmake-3.22\Modules\Internal\FeatureTesting.cmake;E:\share\cmake-3.22\Modules\Platform\Windows-Determine-CXX.cmake;E:\share\cmake-3.22\Modules\Platform\Windows-MSVC-C.cmake;E:\share\cmake-3.22\Modules\Platform\Windows-MSVC-CXX.cmake;E:\share\cmake-3.22\Modules\Platform\Windows-MSVC.cmake;E:\share\cmake-3.22\Modules\Platform\Windows.cmake;E:\share\cmake-3.22\Modules\Platform\WindowsPaths.cmake;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</LinkObjects>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\ZERO_CHECK.vcxproj">
+      <Project>{0B1073FD-1668-31AA-8345-7FE5F5472249}</Project>
+      <Name>ZERO_CHECK</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\Polynom_and_Monom_CheremushkinKI\application\app_Polynom_and_Monom_CheremushkinKI.vcxproj">
+      <Project>{01D9D637-FBE9-3528-B5A6-C43227286462}</Project>
+      <Name>app_Polynom_and_Monom_CheremushkinKI</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\alimov_mike_ceacer_cifir\application\app_alimov_mike_ceacer_cifir.vcxproj">
+      <Project>{992F6CE3-5BA4-319D-AC6A-095D0E9EAEF6}</Project>
+      <Name>app_alimov_mike_ceacer_cifir</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\bakina_kseniia_betcher\application\app_bakina_kseniia_betcher.vcxproj">
+      <Project>{76B933BF-C787-3ABE-A748-8AE723B763E6}</Project>
+      <Name>app_bakina_kseniia_betcher</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\balova_e_interpolation_search\application\app_balova_e_interpolation_search.vcxproj">
+      <Project>{70F68467-9C9D-303F-9FC1-D7F834CA07D1}</Project>
+      <Name>app_balova_e_interpolation_search</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\belyaev_volume_figures\application\app_belyaev_volume_figures.vcxproj">
+      <Project>{4EBFA66B-EEF5-39D2-A5A1-12A313D1F5AE}</Project>
+      <Name>app_belyaev_volume_figures</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\borisov_m_pos_systems_calculator\application\app_borisov_m_pos_systems_calculator.vcxproj">
+      <Project>{FE5E62D9-8316-375A-90CE-F9723D3A790E}</Project>
+      <Name>app_borisov_m_pos_systems_calculator</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\calculate-price\application\app_calculate-price.vcxproj">
+      <Project>{E36C75C2-AA95-39FE-943D-79508FECC980}</Project>
+      <Name>app_calculate-price</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\chornyi-yura-vigenere\application\app_chornyi-yura-vigenere.vcxproj">
+      <Project>{C8676AE8-5155-3117-AE2A-4954DE5D08B3}</Project>
+      <Name>app_chornyi-yura-vigenere</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\complex-number\application\app_complex-number.vcxproj">
+      <Project>{5CDBC203-AB17-36E6-A34B-2FC224FEC446}</Project>
+      <Name>app_complex-number</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\elanski_alexandr_Euler_function\application\app_elanski_alexandr_Euler_function.vcxproj">
+      <Project>{4BB8D64F-F5EC-3BC4-B924-6953B7E5E502}</Project>
+      <Name>app_elanski_alexandr_Euler_function</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\ermakov_pavel_tringle_params\application\app_ermakov_pavel_tringle_params.vcxproj">
+      <Project>{B50BC5C3-AA6F-32C6-B335-456759F4F894}</Project>
+      <Name>app_ermakov_pavel_tringle_params</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\graph_diameter\application\app_graph_diameter.vcxproj">
+      <Project>{EFE07CA9-39D3-38C0-BCFA-A50E17095AE5}</Project>
+      <Name>app_graph_diameter</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\groshev_point_in_triangle\application\app_groshev_point_in_triangle.vcxproj">
+      <Project>{C7529C3A-DAB5-342E-872E-705021F9586B}</Project>
+      <Name>app_groshev_point_in_triangle</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\gudkov_a_common_posled\application\app_gudkov_a_common_posled.vcxproj">
+      <Project>{445D046F-39FF-3358-B33C-BB312A9A347C}</Project>
+      <Name>app_gudkov_a_common_posled</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\kazhaeva_complex\application\app_kazhaeva_complex.vcxproj">
+      <Project>{A8A73D9F-AEC3-38AB-8EC7-FF99F07681D9}</Project>
+      <Name>app_kazhaeva_complex</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\kim_nikita_gronsfeld_cipher\application\app_kim_nikita_gronsfeld_cipher.vcxproj">
+      <Project>{0E3473BA-08F7-33AB-AF25-FDF3530A7F85}</Project>
+      <Name>app_kim_nikita_gronsfeld_cipher</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\korobeinikov_string_calculator\application\app_korobeinikov_string_calculator.vcxproj">
+      <Project>{F436F6C3-D1CD-3ACD-950A-4B956D3155BF}</Project>
+      <Name>app_korobeinikov_string_calculator</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\krapivenskikh_stepan_leftist_heap\application\app_krapivenskikh_stepan_leftist_heap.vcxproj">
+      <Project>{BA50800E-538E-31AB-AEC0-A9D203CE1194}</Project>
+      <Name>app_krapivenskikh_stepan_leftist_heap</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\kruglov_aleksei_segment_tree\application\app_kruglov_aleksei_segment_tree.vcxproj">
+      <Project>{20A7A545-35F6-36B0-995C-34CB50944A71}</Project>
+      <Name>app_kruglov_aleksei_segment_tree</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\kuklin_andrey_modified_stack\application\app_kuklin_andrey_modified_stack.vcxproj">
+      <Project>{DFF1DF8F-2813-3444-8A4C-0624D9148718}</Project>
+      <Name>app_kuklin_andrey_modified_stack</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\lakhov-statistics\application\app_lakhov-statistics.vcxproj">
+      <Project>{046DBCF9-18DA-3C1C-B335-4965B7924DF2}</Project>
+      <Name>app_lakhov-statistics</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\leftist-heap\application\app_leftist-heap.vcxproj">
+      <Project>{7F61C90E-4CAF-3910-8D09-62BC0F385DDB}</Project>
+      <Name>app_leftist-heap</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\line_intersection\application\app_line_intersection.vcxproj">
+      <Project>{8D4804B6-B02F-3214-AE49-A74A47714F4D}</Project>
+      <Name>app_line_intersection</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\lukashuk_d_pg\application\app_lukashuk_d_pg.vcxproj">
+      <Project>{2422CF0F-DC30-3C09-890E-2A3DBCEC270C}</Project>
+      <Name>app_lukashuk_d_pg</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\miheev_ivan_d-ary_heap\application\app_miheev_ivan_d-ary_heap.vcxproj">
+      <Project>{F62DD875-17DB-34CD-932D-B3D71D679C35}</Project>
+      <Name>app_miheev_ivan_d-ary_heap</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\myasnikova_pseudographics\application\app_myasnikova_pseudographics.vcxproj">
+      <Project>{797FD610-B551-313A-B3A6-B199900D051D}</Project>
+      <Name>app_myasnikova_pseudographics</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\novozhilov-alexandr-prime-numbers\application\app_novozhilov-alexandr-prime-numbers.vcxproj">
+      <Project>{DEB097EE-ED63-3726-BFD6-7CF5E880F62C}</Project>
+      <Name>app_novozhilov-alexandr-prime-numbers</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\olynin_a_cross_line_and_plane\application\app_olynin_a_cross_line_and_plane.vcxproj">
+      <Project>{7FB2F61E-1DE7-3D60-97D4-E85E396D4D68}</Project>
+      <Name>app_olynin_a_cross_line_and_plane</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\pichugin_i_sort\application\app_pichugin_i_sort.vcxproj">
+      <Project>{5A6746DC-2BCF-337F-A730-5AB9A2406E6D}</Project>
+      <Name>app_pichugin_i_sort</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\polygon_area\application\app_polygon_area.vcxproj">
+      <Project>{F8498CAF-2FA2-3DA0-A400-462C43911844}</Project>
+      <Name>app_polygon_area</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\popp_maksim_template_binary_heap\application\app_popp_maksim_template_binary_heap.vcxproj">
+      <Project>{83797578-E7A0-3F4B-96C5-FD7D35D45E94}</Project>
+      <Name>app_popp_maksim_template_binary_heap</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\radix_sort_dydykin\application\app_radix_sort_dydykin.vcxproj">
+      <Project>{D1292A94-FA41-3E0F-A40A-FF4F8D04E304}</Project>
+      <Name>app_radix_sort_dydykin</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\remizova_matrix\application\app_remizova_matrix.vcxproj">
+      <Project>{F67903BE-6A3C-35D1-A716-5040FF177246}</Project>
+      <Name>app_remizova_matrix</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\samoiluk_a_stack\application\app_samoiluk_a_stack.vcxproj">
+      <Project>{D7C8F6EB-C105-3A3B-8B41-15080C552FE5}</Project>
+      <Name>app_samoiluk_a_stack</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\shatalin-dmitrii-deposit-calculator\application\app_shatalin-dmitrii-deposit-calculator.vcxproj">
+      <Project>{854549A3-712E-3510-8C05-112F0ADFCADF}</Project>
+      <Name>app_shatalin-dmitrii-deposit-calculator</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\soldatov_figure_area\application\app_soldatov_figure_area.vcxproj">
+      <Project>{EE176295-6655-38DA-A318-6517ADFA9635}</Project>
+      <Name>app_soldatov_figure_area</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\trevogin_kirill_maxpos\application\app_trevogin_kirill_maxpos.vcxproj">
+      <Project>{A6E3B277-748B-33C4-ADE7-21BD5E294547}</Project>
+      <Name>app_trevogin_kirill_maxpos</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\troegubova_numeric_interval\application\app_troegubova_numeric_interval.vcxproj">
+      <Project>{892AD0FF-F4C8-3A68-8C08-2B552EC7CCA4}</Project>
+      <Name>app_troegubova_numeric_interval</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\trukhanov_a_queue\application\app_trukhanov_a_queue.vcxproj">
+      <Project>{21FEEEDA-061B-3DDD-9875-54849CA1A280}</Project>
+      <Name>app_trukhanov_a_queue</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\ustiuzhanin_n_hashmap\application\app_ustiuzhanin_n_hashmap.vcxproj">
+      <Project>{210F03E2-2062-3236-A7D5-FB177B444EB9}</Project>
+      <Name>app_ustiuzhanin_n_hashmap</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\vanyushkov_m_ratio\application\app_vanyushkov_m_ratio.vcxproj">
+      <Project>{34A01816-B619-326D-9C84-D3B92F96F93B}</Project>
+      <Name>app_vanyushkov_m_ratio</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\vector-distances\application\app_vector-distances.vcxproj">
+      <Project>{28B528E9-E309-3962-8DBF-C062C2FE411D}</Project>
+      <Name>app_vector-distances</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\yashin_kirill_binary_search\application\app_yashin_kirill_binary_search.vcxproj">
+      <Project>{891ED259-2501-3527-8BB8-CE2E1ADD97B1}</Project>
+      <Name>app_yashin_kirill_binary_search</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\zarubin_mikhail_binary_tree\application\app_zarubin_mikhail_binary_tree.vcxproj">
+      <Project>{0F8EE615-68B6-332E-97B0-A9F5DAFADB43}</Project>
+      <Name>app_zarubin_mikhail_binary_tree</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\3rdparty\gtest\gtest.vcxproj">
+      <Project>{F319327E-1555-3D7A-BB82-D816760BDA2F}</Project>
+      <Name>gtest</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\Polynom_and_Monom_CheremushkinKI\src\lib_Polynom_and_Monom_CheremushkinKI.vcxproj">
+      <Project>{6B4B2290-F826-3848-9EBE-5B8367BD3480}</Project>
+      <Name>lib_Polynom_and_Monom_CheremushkinKI</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\abuyassen_albara_kruskal_mst\src\lib_abuyassen_albara_kruskal_mst.vcxproj">
+      <Project>{9FABDF18-DD3B-36FD-B4C4-61FE26557209}</Project>
+      <Name>lib_abuyassen_albara_kruskal_mst</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\alimov_mike_ceacer_cifir\src\lib_alimov_mike_ceacer_cifir.vcxproj">
+      <Project>{3ED6E3A6-35AA-3B99-91EB-77E41E4050F9}</Project>
+      <Name>lib_alimov_mike_ceacer_cifir</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\bakina_kseniia_betcher\src\lib_bakina_kseniia_betcher.vcxproj">
+      <Project>{43C6D615-A03B-3695-BAE9-02267C3E8700}</Project>
+      <Name>lib_bakina_kseniia_betcher</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\balova_e_interpolation_search\src\lib_balova_e_interpolation_search.vcxproj">
+      <Project>{6C9BA7C4-4B1C-3409-B3AF-38A7330145C1}</Project>
+      <Name>lib_balova_e_interpolation_search</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\belyaev_volume_figures\src\lib_belyaev_volume_figures.vcxproj">
+      <Project>{FD6971F3-E29E-33C1-8053-8A68B7426815}</Project>
+      <Name>lib_belyaev_volume_figures</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\borisov_m_pos_systems_calculator\src\lib_borisov_m_pos_systems_calculator.vcxproj">
+      <Project>{CAB4C895-48DD-3569-9B9B-70ECC22E5D08}</Project>
+      <Name>lib_borisov_m_pos_systems_calculator</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\brazhnik_dmitry_converter_arab_rom\src\lib_brazhnik_dmitry_converter_arab_rom.vcxproj">
+      <Project>{1A8C0D5A-691F-300C-BFDE-FB10CF97DD8E}</Project>
+      <Name>lib_brazhnik_dmitry_converter_arab_rom</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\burdukov_mikhail_horse_min_range\src\lib_burdukov_mikhail_horse_min_range.vcxproj">
+      <Project>{2D3BA0C7-3B07-363E-A241-B842A91D26DA}</Project>
+      <Name>lib_burdukov_mikhail_horse_min_range</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\butescu_livenstein_distatnce\src\lib_butescu_livenstein_distatnce.vcxproj">
+      <Project>{D594DE94-725D-3C13-B2E0-985A03819F56}</Project>
+      <Name>lib_butescu_livenstein_distatnce</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\calculate-price\src\lib_calculate-price.vcxproj">
+      <Project>{95FD66FB-FCFB-33C2-94E7-50D5804EDE90}</Project>
+      <Name>lib_calculate-price</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\chornyi-yura-vigenere\src\lib_chornyi-yura-vigenere.vcxproj">
+      <Project>{D34F861C-30E4-39D1-92E9-5652A7CE1B9D}</Project>
+      <Name>lib_chornyi-yura-vigenere</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\complex-number\src\lib_complex-number.vcxproj">
+      <Project>{6ED1C9C6-6D25-3272-8201-4C8E5B26D0A8}</Project>
+      <Name>lib_complex-number</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\conways_life\src\lib_conways_life.vcxproj">
+      <Project>{DBA9EBE4-4DF4-3122-816E-160B47B2D91C}</Project>
+      <Name>lib_conways_life</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\deicstra_algorithm\src\lib_deicstra_algorithm.vcxproj">
+      <Project>{324FDFAB-BD0E-3F48-926D-6B9F3109EC30}</Project>
+      <Name>lib_deicstra_algorithm</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\elanski_alexandr_Euler_function\src\lib_elanski_alexandr_Euler_function.vcxproj">
+      <Project>{BAACB7BF-8C37-3B69-A49D-C94D67C1CA9E}</Project>
+      <Name>lib_elanski_alexandr_Euler_function</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\ermakov_pavel_tringle_params\src\lib_ermakov_pavel_tringle_params.vcxproj">
+      <Project>{84E8C089-5232-3D1C-9E20-0F11DB6E8E78}</Project>
+      <Name>lib_ermakov_pavel_tringle_params</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\frolov_regular_expressions\src\lib_frolov_regular_expressions.vcxproj">
+      <Project>{E7C2F132-33AA-33E5-B104-A62D5271E856}</Project>
+      <Name>lib_frolov_regular_expressions</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\galindo_30_rule\src\lib_galindo_30_rule.vcxproj">
+      <Project>{023D57B6-D35A-382F-AE66-AB6B059287E3}</Project>
+      <Name>lib_galindo_30_rule</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\gordeev_avl_tree\src\lib_gordeev_avl_tree.vcxproj">
+      <Project>{35488CEC-AB1E-32D6-A42F-7967CCC1A139}</Project>
+      <Name>lib_gordeev_avl_tree</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\graph-num-comp\src\lib_graph-num-comp.vcxproj">
+      <Project>{0F59709D-CD2F-3CDE-90D3-99FC1D9119E5}</Project>
+      <Name>lib_graph-num-comp</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\graph_diameter\src\lib_graph_diameter.vcxproj">
+      <Project>{A67A54F9-8310-3352-A4ED-1C0F798DF973}</Project>
+      <Name>lib_graph_diameter</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\groshev_point_in_triangle\src\lib_groshev_point_in_triangle.vcxproj">
+      <Project>{9D2DB313-3D14-32A3-A1B2-9EC2242B137B}</Project>
+      <Name>lib_groshev_point_in_triangle</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\gudkov_a_common_posled\src\lib_gudkov_a_common_posled.vcxproj">
+      <Project>{169B97DC-133B-3DC4-A408-955FED633DD1}</Project>
+      <Name>lib_gudkov_a_common_posled</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\ivanov_a_set\src\lib_ivanov_a_set.vcxproj">
+      <Project>{BA2885D5-1919-320F-82D0-FF9843FD0515}</Project>
+      <Name>lib_ivanov_a_set</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\kamenev_hanoi_tower\src\lib_kamenev_hanoi_tower.vcxproj">
+      <Project>{9632AF4A-5897-3170-B98D-2BC67E6D1048}</Project>
+      <Name>lib_kamenev_hanoi_tower</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\kazhaeva_complex\src\lib_kazhaeva_complex.vcxproj">
+      <Project>{D6500836-7EC6-3F86-92AA-C04B4233CF8F}</Project>
+      <Name>lib_kazhaeva_complex</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\kim_nikita_gronsfeld_cipher\src\lib_kim_nikita_gronsfeld_cipher.vcxproj">
+      <Project>{3AC570B5-DEB4-389A-B005-132A49F69F72}</Project>
+      <Name>lib_kim_nikita_gronsfeld_cipher</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\korobeinikov_string_calculator\src\lib_korobeinikov_string_calculator.vcxproj">
+      <Project>{804D1B65-CAB3-31C5-B436-E8F23580375B}</Project>
+      <Name>lib_korobeinikov_string_calculator</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\krapivenskikh_stepan_leftist_heap\src\lib_krapivenskikh_stepan_leftist_heap.vcxproj">
+      <Project>{BE82D9CB-F315-38F6-943D-7EEF2AC9733F}</Project>
+      <Name>lib_krapivenskikh_stepan_leftist_heap</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\krivosheev_bit_array\src\lib_krivosheev_bit_array.vcxproj">
+      <Project>{C0966AE4-7D78-3182-96F4-6ABCAF95EF97}</Project>
+      <Name>lib_krivosheev_bit_array</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\kruglov_aleksei_segment_tree\src\lib_kruglov_aleksei_segment_tree.vcxproj">
+      <Project>{3DC8A66C-9D76-328A-8F38-8FADFD7DBD62}</Project>
+      <Name>lib_kruglov_aleksei_segment_tree</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\kuklin_andrey_modified_stack\src\lib_kuklin_andrey_modified_stack.vcxproj">
+      <Project>{23A2E254-9EB6-3619-8BF7-E58E028F94A6}</Project>
+      <Name>lib_kuklin_andrey_modified_stack</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\kurguzikov_wave-algorithm\src\lib_kurguzikov_wave-algorithm.vcxproj">
+      <Project>{03E0BC12-55B0-3123-81E1-7FAB2412B7BE}</Project>
+      <Name>lib_kurguzikov_wave-algorithm</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\lakhov-statistics\src\lib_lakhov-statistics.vcxproj">
+      <Project>{9BEB16A3-E215-3F6F-90DF-17521A65991D}</Project>
+      <Name>lib_lakhov-statistics</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\leftist-heap\src\lib_leftist-heap.vcxproj">
+      <Project>{A1B5D333-DA35-3DD4-B2AC-AE25D67F5F24}</Project>
+      <Name>lib_leftist-heap</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\line_intersection\src\lib_line_intersection.vcxproj">
+      <Project>{9D6830CE-B5D7-3303-93F4-C4002195A35A}</Project>
+      <Name>lib_line_intersection</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\lukashuk_d_pg\src\lib_lukashuk_d_pg.vcxproj">
+      <Project>{4689C3E4-BA73-31D4-A093-2B13EE1E81AE}</Project>
+      <Name>lib_lukashuk_d_pg</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\miheev_ivan_d-ary_heap\src\lib_miheev_ivan_d-ary_heap.vcxproj">
+      <Project>{70BE5F0F-53D6-3386-8B53-BB74713C0CC1}</Project>
+      <Name>lib_miheev_ivan_d-ary_heap</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\myasnikova_pseudographics\src\lib_myasnikova_pseudographics.vcxproj">
+      <Project>{FC599EAB-DE1B-31D8-BE38-534BBDCEC187}</Project>
+      <Name>lib_myasnikova_pseudographics</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\novozhilov-alexandr-prime-numbers\src\lib_novozhilov-alexandr-prime-numbers.vcxproj">
+      <Project>{0AD6DDA1-7B36-3661-90E0-6971AB9B559A}</Project>
+      <Name>lib_novozhilov-alexandr-prime-numbers</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\olynin_a_cross_line_and_plane\src\lib_olynin_a_cross_line_and_plane.vcxproj">
+      <Project>{4BA1A41F-22C4-3A52-90AD-ACB4AE8188AC}</Project>
+      <Name>lib_olynin_a_cross_line_and_plane</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\oskin_g_equation\src\lib_oskin_g_equation.vcxproj">
+      <Project>{3B8E81BC-580E-365D-8A32-2621B91F1835}</Project>
+      <Name>lib_oskin_g_equation</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\pichugin_i_sort\src\lib_pichugin_i_sort.vcxproj">
+      <Project>{0900CB91-C9D5-328D-AA99-CAB231C293FD}</Project>
+      <Name>lib_pichugin_i_sort</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\polygon_area\src\lib_polygon_area.vcxproj">
+      <Project>{0D1F92B4-1B65-36F2-816F-1648415B9186}</Project>
+      <Name>lib_polygon_area</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\popp_maksim_template_binary_heap\src\lib_popp_maksim_template_binary_heap.vcxproj">
+      <Project>{04771426-CB58-3E36-BA95-D73D0C6EF199}</Project>
+      <Name>lib_popp_maksim_template_binary_heap</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\pyatckin_nikolay_rb_tree\src\lib_pyatckin_nikolay_rb_tree.vcxproj">
+      <Project>{BCD3AA9B-D63E-3085-8636-FDBE18BF15A3}</Project>
+      <Name>lib_pyatckin_nikolay_rb_tree</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\radix_sort_dydykin\src\lib_radix_sort_dydykin.vcxproj">
+      <Project>{673651C8-4A10-3618-AD0E-C0C8B0BFC2FA}</Project>
+      <Name>lib_radix_sort_dydykin</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\remizova_matrix\src\lib_remizova_matrix.vcxproj">
+      <Project>{15D4370C-62B0-3EA1-B015-A2AFB7BFF770}</Project>
+      <Name>lib_remizova_matrix</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\samoiluk_a_stack\src\lib_samoiluk_a_stack.vcxproj">
+      <Project>{EF6BF67B-86EB-3C27-AA3C-1C7A2B74F1BB}</Project>
+      <Name>lib_samoiluk_a_stack</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\shatalin-dmitrii-deposit-calculator\src\lib_shatalin-dmitrii-deposit-calculator.vcxproj">
+      <Project>{2BE9B7ED-466D-3596-99C8-424D6EE14297}</Project>
+      <Name>lib_shatalin-dmitrii-deposit-calculator</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\shelepin_n_simpson\src\lib_shelepin_n_simpson.vcxproj">
+      <Project>{44112ACC-731B-3D8F-8210-BF1F32D25BE5}</Project>
+      <Name>lib_shelepin_n_simpson</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\shurygina_rev_pol_notat\src\lib_shurygina_rev_pol_notat.vcxproj">
+      <Project>{F8A741CD-2C14-3DA8-AD6D-80A50442900D}</Project>
+      <Name>lib_shurygina_rev_pol_notat</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\soldatov_figure_area\src\lib_soldatov_figure_area.vcxproj">
+      <Project>{8356629B-7E7C-31EB-9042-C0E7D9C43574}</Project>
+      <Name>lib_soldatov_figure_area</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\trevogin_kirill_maxpos\src\lib_trevogin_kirill_maxpos.vcxproj">
+      <Project>{D759BE93-02AC-33DB-87D7-10E9DDB6863C}</Project>
+      <Name>lib_trevogin_kirill_maxpos</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\troegubova_numeric_interval\src\lib_troegubova_numeric_interval.vcxproj">
+      <Project>{1CF59E4C-C6CB-3634-AA56-6D5159355784}</Project>
+      <Name>lib_troegubova_numeric_interval</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\trukhanov_a_queue\src\lib_trukhanov_a_queue.vcxproj">
+      <Project>{1BEE5474-F744-3A9D-A0B0-0790E5FAED51}</Project>
+      <Name>lib_trukhanov_a_queue</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\ustiuzhanin_n_hashmap\src\lib_ustiuzhanin_n_hashmap.vcxproj">
+      <Project>{0A24ED22-04DA-36EA-A420-03B0BB9D8FA6}</Project>
+      <Name>lib_ustiuzhanin_n_hashmap</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\vanyushkov_m_ratio\src\lib_vanyushkov_m_ratio.vcxproj">
+      <Project>{E527F510-FF60-3712-A846-878C581B205D}</Project>
+      <Name>lib_vanyushkov_m_ratio</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\vector-distances\src\lib_vector-distances.vcxproj">
+      <Project>{F0DB0ED4-7C84-382D-AE6C-74105E52B582}</Project>
+      <Name>lib_vector-distances</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\vector3d_operations\src\lib_vector3d_operations.vcxproj">
+      <Project>{ECD5D169-77C1-3191-BB8A-31850D3DDB68}</Project>
+      <Name>lib_vector3d_operations</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\yashin_kirill_binary_search\src\lib_yashin_kirill_binary_search.vcxproj">
+      <Project>{516DF54C-A503-386C-BD7E-DEF15C25DF9D}</Project>
+      <Name>lib_yashin_kirill_binary_search</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\zaitsev_a_number_translation\src\lib_zaitsev_a_number_translation.vcxproj">
+      <Project>{06061D8C-D1DA-318D-845E-079FA64625FB}</Project>
+      <Name>lib_zaitsev_a_number_translation</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\zaitseva_k_priority_queue\src\lib_zaitseva_k_priority_queue.vcxproj">
+      <Project>{3DF43D63-A7D4-38C7-A97F-0325198768F2}</Project>
+      <Name>lib_zaitseva_k_priority_queue</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\zarubin_mikhail_binary_tree\src\lib_zarubin_mikhail_binary_tree.vcxproj">
+      <Project>{2A141003-344E-3C2C-8C2B-C8C154E718F5}</Project>
+      <Name>lib_zarubin_mikhail_binary_tree</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\Polynom_and_Monom_CheremushkinKI\test\test_Polynom_and_Monom_CheremushkinKI.vcxproj">
+      <Project>{86EE9FA9-85E4-39F3-A43F-CBFF2EFDF6B6}</Project>
+      <Name>test_Polynom_and_Monom_CheremushkinKI</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\abuyassen_albara_kruskal_mst\test\test_abuyassen_albara_kruskal_mst.vcxproj">
+      <Project>{1FC64C89-5E5A-3D49-B40F-B63E49ABB8E9}</Project>
+      <Name>test_abuyassen_albara_kruskal_mst</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\alimov_mike_ceacer_cifir\test\test_alimov_mike_ceacer_cifir.vcxproj">
+      <Project>{693565F7-6D8B-3E17-A97C-6E1205D4E5F0}</Project>
+      <Name>test_alimov_mike_ceacer_cifir</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\bakina_kseniia_betcher\test\test_bakina_kseniia_betcher.vcxproj">
+      <Project>{5A18AB90-58FD-360B-8A1B-BAA213D21A2A}</Project>
+      <Name>test_bakina_kseniia_betcher</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\balova_e_interpolation_search\test\test_balova_e_interpolation_search.vcxproj">
+      <Project>{FC71EDD1-0C0F-3929-9524-80F60E4BCD10}</Project>
+      <Name>test_balova_e_interpolation_search</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\belyaev_volume_figures\test\test_belyaev_volume_figures.vcxproj">
+      <Project>{3B3B9265-EBCB-34F4-9B97-4385D7F591A3}</Project>
+      <Name>test_belyaev_volume_figures</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\borisov_m_pos_systems_calculator\test\test_borisov_m_pos_systems_calculator.vcxproj">
+      <Project>{FA0E0EAB-48F5-3F8C-80E4-8988EDEAD5FB}</Project>
+      <Name>test_borisov_m_pos_systems_calculator</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\brazhnik_dmitry_converter_arab_rom\test\test_brazhnik_dmitry_converter_arab_rom.vcxproj">
+      <Project>{FAEF58F5-1EC6-373E-BFD5-0C2484392630}</Project>
+      <Name>test_brazhnik_dmitry_converter_arab_rom</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\burdukov_mikhail_horse_min_range\test\test_burdukov_mikhail_horse_min_range.vcxproj">
+      <Project>{61007DFC-BB17-341D-9A76-8F38B151B168}</Project>
+      <Name>test_burdukov_mikhail_horse_min_range</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\butescu_livenstein_distatnce\test\test_butescu_livenstein_distatnce.vcxproj">
+      <Project>{296CA05D-470E-38E4-9D0E-11C668C1F8A2}</Project>
+      <Name>test_butescu_livenstein_distatnce</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\calculate-price\test\test_calculate-price.vcxproj">
+      <Project>{BCE245C0-A39D-34D4-AE7B-D8876253EB44}</Project>
+      <Name>test_calculate-price</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\chornyi-yura-vigenere\test\test_chornyi-yura-vigenere.vcxproj">
+      <Project>{F1882355-2413-3E6C-87C3-A7DEED778DB6}</Project>
+      <Name>test_chornyi-yura-vigenere</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\complex-number\test\test_complex-number.vcxproj">
+      <Project>{9F5663FE-020C-3F14-89A1-BE78F0384F61}</Project>
+      <Name>test_complex-number</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\conways_life\test\test_conways_life.vcxproj">
+      <Project>{500DA0C9-CD1B-34B4-BDD6-4449726260FC}</Project>
+      <Name>test_conways_life</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\deicstra_algorithm\test\test_deicstra_algorithm.vcxproj">
+      <Project>{CDBE2393-D817-3075-AA8B-0B2CEDFBEDF5}</Project>
+      <Name>test_deicstra_algorithm</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\elanski_alexandr_Euler_function\test\test_elanski_alexandr_Euler_function.vcxproj">
+      <Project>{A8DFCCCF-DEEC-3FFB-823D-DE4E9F05056E}</Project>
+      <Name>test_elanski_alexandr_Euler_function</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\ermakov_pavel_tringle_params\test\test_ermakov_pavel_tringle_params.vcxproj">
+      <Project>{B502A5BD-B293-30D8-A885-695DA088434E}</Project>
+      <Name>test_ermakov_pavel_tringle_params</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\frolov_regular_expressions\test\test_frolov_regular_expressions.vcxproj">
+      <Project>{23ADB863-1F26-3B21-8ED4-2A2B4FB0C4E1}</Project>
+      <Name>test_frolov_regular_expressions</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\galindo_30_rule\test\test_galindo_30_rule.vcxproj">
+      <Project>{C4BB58C1-3D0B-3CA1-87E7-A79A64FA6FBE}</Project>
+      <Name>test_galindo_30_rule</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\gordeev_avl_tree\test\test_gordeev_avl_tree.vcxproj">
+      <Project>{8D63DDE5-7BE6-38D7-BD68-674967BF57FF}</Project>
+      <Name>test_gordeev_avl_tree</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\graph-num-comp\test\test_graph-num-comp.vcxproj">
+      <Project>{5556F2B0-302C-39C0-82F9-F6D631E13A39}</Project>
+      <Name>test_graph-num-comp</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\graph_diameter\test\test_graph_diameter.vcxproj">
+      <Project>{8D0A81C9-2912-3A3F-99B8-FFF3AE9F5A5B}</Project>
+      <Name>test_graph_diameter</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\groshev_point_in_triangle\test\test_groshev_point_in_triangle.vcxproj">
+      <Project>{32B48B82-BB4C-3590-B203-ECB2BAB27223}</Project>
+      <Name>test_groshev_point_in_triangle</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\gudkov_a_common_posled\test\test_gudkov_a_common_posled.vcxproj">
+      <Project>{47BF74FE-097D-3EEC-BE57-C40BCB8357D3}</Project>
+      <Name>test_gudkov_a_common_posled</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\ivanov_a_set\test\test_ivanov_a_set.vcxproj">
+      <Project>{A15B295B-C264-33F1-8062-67FA057995C2}</Project>
+      <Name>test_ivanov_a_set</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\kamenev_hanoi_tower\test\test_kamenev_hanoi_tower.vcxproj">
+      <Project>{51612695-C0CF-3409-98BF-8A135BD13AC2}</Project>
+      <Name>test_kamenev_hanoi_tower</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\kazhaeva_complex\test\test_kazhaeva_complex.vcxproj">
+      <Project>{EF91A871-7B24-3F91-B2AB-A2D10C97586C}</Project>
+      <Name>test_kazhaeva_complex</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\kim_nikita_gronsfeld_cipher\test\test_kim_nikita_gronsfeld_cipher.vcxproj">
+      <Project>{12940323-ED1D-3AB9-9F9E-18D1AEB637E8}</Project>
+      <Name>test_kim_nikita_gronsfeld_cipher</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\korobeinikov_string_calculator\test\test_korobeinikov_string_calculator.vcxproj">
+      <Project>{F5098191-6A44-3442-9B7C-5A21038011EB}</Project>
+      <Name>test_korobeinikov_string_calculator</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\krapivenskikh_stepan_leftist_heap\test\test_krapivenskikh_stepan_leftist_heap.vcxproj">
+      <Project>{3C03D022-82C8-30E6-8413-132CB202F67F}</Project>
+      <Name>test_krapivenskikh_stepan_leftist_heap</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\krivosheev_bit_array\test\test_krivosheev_bit_array.vcxproj">
+      <Project>{159FE8B9-580D-3984-9476-48866FD57081}</Project>
+      <Name>test_krivosheev_bit_array</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\kruglov_aleksei_segment_tree\test\test_kruglov_aleksei_segment_tree.vcxproj">
+      <Project>{3ACEF183-BAB9-36AF-BA37-09F792362642}</Project>
+      <Name>test_kruglov_aleksei_segment_tree</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\kuklin_andrey_modified_stack\test\test_kuklin_andrey_modified_stack.vcxproj">
+      <Project>{6CC0E416-EBE4-3B03-B941-410985F492FC}</Project>
+      <Name>test_kuklin_andrey_modified_stack</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\kurguzikov_wave-algorithm\test\test_kurguzikov_wave-algorithm.vcxproj">
+      <Project>{C8CE0FA2-31CF-3015-BDD1-98EFB63FC4F1}</Project>
+      <Name>test_kurguzikov_wave-algorithm</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\lakhov-statistics\test\test_lakhov-statistics.vcxproj">
+      <Project>{4C15C6DA-57FC-3DAA-9AB1-8DDB5C77B710}</Project>
+      <Name>test_lakhov-statistics</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\leftist-heap\test\test_leftist-heap.vcxproj">
+      <Project>{C0CBF704-88B6-3737-B7F0-6CE2EDA2F289}</Project>
+      <Name>test_leftist-heap</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\line_intersection\test\test_line_intersection.vcxproj">
+      <Project>{FA042B01-D6B4-3E95-8AFA-C8665181EE37}</Project>
+      <Name>test_line_intersection</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\lukashuk_d_pg\test\test_lukashuk_d_pg.vcxproj">
+      <Project>{C4116C95-A2DB-38EB-A09F-983B2781917C}</Project>
+      <Name>test_lukashuk_d_pg</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\miheev_ivan_d-ary_heap\test\test_miheev_ivan_d-ary_heap.vcxproj">
+      <Project>{4490BC35-DD41-3DAC-8384-78E8CBEFC7C4}</Project>
+      <Name>test_miheev_ivan_d-ary_heap</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\myasnikova_pseudographics\test\test_myasnikova_pseudographics.vcxproj">
+      <Project>{01B9839E-D12F-31CF-8FCC-5574A9682D6F}</Project>
+      <Name>test_myasnikova_pseudographics</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\novozhilov-alexandr-prime-numbers\test\test_novozhilov-alexandr-prime-numbers.vcxproj">
+      <Project>{A3A12792-AAAF-3A5E-829F-EDC4C5E8F6C2}</Project>
+      <Name>test_novozhilov-alexandr-prime-numbers</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\olynin_a_cross_line_and_plane\test\test_olynin_a_cross_line_and_plane.vcxproj">
+      <Project>{1A5888E6-3A1B-304C-9ED1-961672619733}</Project>
+      <Name>test_olynin_a_cross_line_and_plane</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\oskin_g_equation\test\test_oskin_g_equation.vcxproj">
+      <Project>{E00206B8-7ED2-3922-9DF6-B9C60B58459D}</Project>
+      <Name>test_oskin_g_equation</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\pichugin_i_sort\test\test_pichugin_i_sort.vcxproj">
+      <Project>{391C0C4D-C208-3611-98A8-7AD92C85C40A}</Project>
+      <Name>test_pichugin_i_sort</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\polygon_area\test\test_polygon_area.vcxproj">
+      <Project>{F096E1D8-A479-3F2C-9D00-CCF8AC55FBA1}</Project>
+      <Name>test_polygon_area</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\popp_maksim_template_binary_heap\test\test_popp_maksim_template_binary_heap.vcxproj">
+      <Project>{508647AE-FA07-3B30-8CD9-AC4D4D5A05FF}</Project>
+      <Name>test_popp_maksim_template_binary_heap</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\pyatckin_nikolay_rb_tree\test\test_pyatckin_nikolay_rb_tree.vcxproj">
+      <Project>{20DA0962-2244-313A-BC9E-3A14BB20EFF8}</Project>
+      <Name>test_pyatckin_nikolay_rb_tree</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\radix_sort_dydykin\test\test_radix_sort_dydykin.vcxproj">
+      <Project>{4D1A8BA4-BC0B-3442-ABF0-DD1214FD6DE8}</Project>
+      <Name>test_radix_sort_dydykin</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\remizova_matrix\test\test_remizova_matrix.vcxproj">
+      <Project>{537937BD-4EE5-3AA8-9CAE-3E6689B91691}</Project>
+      <Name>test_remizova_matrix</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\samoiluk_a_stack\test\test_samoiluk_a_stack.vcxproj">
+      <Project>{C902248D-2AFF-3383-8E28-F91D57FD7D85}</Project>
+      <Name>test_samoiluk_a_stack</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\shatalin-dmitrii-deposit-calculator\test\test_shatalin-dmitrii-deposit-calculator.vcxproj">
+      <Project>{FA911CEB-3C47-31A1-880D-431DC57FBE1B}</Project>
+      <Name>test_shatalin-dmitrii-deposit-calculator</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\shelepin_n_simpson\test\test_shelepin_n_simpson.vcxproj">
+      <Project>{BD43BB46-B83E-3EF7-8E31-FB2AA7F62AE3}</Project>
+      <Name>test_shelepin_n_simpson</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\shurygina_rev_pol_notat\test\test_shurygina_rev_pol_notat.vcxproj">
+      <Project>{53E201CE-7D44-32FC-8901-61C5CF719A7F}</Project>
+      <Name>test_shurygina_rev_pol_notat</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\soldatov_figure_area\test\test_soldatov_figure_area.vcxproj">
+      <Project>{4BD0112E-23DD-3F5D-BFAD-7FB0C81494B6}</Project>
+      <Name>test_soldatov_figure_area</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\trevogin_kirill_maxpos\test\test_trevogin_kirill_maxpos.vcxproj">
+      <Project>{3312E21B-6A20-34A0-BD8C-370584F7474C}</Project>
+      <Name>test_trevogin_kirill_maxpos</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\troegubova_numeric_interval\test\test_troegubova_numeric_interval.vcxproj">
+      <Project>{B97C539D-C692-35E8-A946-A3695122B960}</Project>
+      <Name>test_troegubova_numeric_interval</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\trukhanov_a_queue\test\test_trukhanov_a_queue.vcxproj">
+      <Project>{BBB252F3-48B6-332D-857D-B28533F70CBB}</Project>
+      <Name>test_trukhanov_a_queue</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\ustiuzhanin_n_hashmap\test\test_ustiuzhanin_n_hashmap.vcxproj">
+      <Project>{AE6DD3F3-DDB6-3F1C-A010-D21BEA2FA5B9}</Project>
+      <Name>test_ustiuzhanin_n_hashmap</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\vanyushkov_m_ratio\test\test_vanyushkov_m_ratio.vcxproj">
+      <Project>{6B731848-70A6-338F-86B0-AF5741914EB1}</Project>
+      <Name>test_vanyushkov_m_ratio</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\vector-distances\test\test_vector-distances.vcxproj">
+      <Project>{D9C4963D-B41A-39E4-9C52-201B3F6612D2}</Project>
+      <Name>test_vector-distances</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\vector3d_operations\test\test_vector3d_operations.vcxproj">
+      <Project>{36FBA242-7A19-36D9-9C05-811EDB8C45BD}</Project>
+      <Name>test_vector3d_operations</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\yashin_kirill_binary_search\test\test_yashin_kirill_binary_search.vcxproj">
+      <Project>{7DEF1AD1-C359-3E10-A1F5-4823598E77FC}</Project>
+      <Name>test_yashin_kirill_binary_search</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\zaitsev_a_number_translation\test\test_zaitsev_a_number_translation.vcxproj">
+      <Project>{D5661DB3-B8BF-3D64-906E-6C048C6EA12E}</Project>
+      <Name>test_zaitsev_a_number_translation</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\zaitseva_k_priority_queue\test\test_zaitseva_k_priority_queue.vcxproj">
+      <Project>{ACC768B7-1446-3F07-8E9B-98672B60CF39}</Project>
+      <Name>test_zaitseva_k_priority_queue</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\modules\zarubin_mikhail_binary_tree\test\test_zarubin_mikhail_binary_tree.vcxproj">
+      <Project>{511B0233-A166-3604-A4A1-97C3C7E73751}</Project>
+      <Name>test_zarubin_mikhail_binary_tree</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

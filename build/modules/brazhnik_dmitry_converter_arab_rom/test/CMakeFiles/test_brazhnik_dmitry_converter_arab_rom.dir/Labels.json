@@ -1,0 +1,30 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/brazhnik_dmitry_converter_arab_rom/test/test_converter.cpp",
+			"labels" : 
+			[
+				"brazhnik_dmitry_converter_arab_rom",
+				"Test"
+			]
+		},
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/brazhnik_dmitry_converter_arab_rom/test/test_main.cpp",
+			"labels" : 
+			[
+				"brazhnik_dmitry_converter_arab_rom",
+				"Test"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"brazhnik_dmitry_converter_arab_rom",
+			"Test"
+		],
+		"name" : "test_brazhnik_dmitry_converter_arab_rom"
+	}
+}

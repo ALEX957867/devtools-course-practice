@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/radix_sort_dydykin/src/radix_sort.cpp",
+			"labels" : 
+			[
+				"radix_sort_dydykin",
+				"Library"
+			]
+		},
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/radix_sort_dydykin/src/radix_sort_app.cpp",
+			"labels" : 
+			[
+				"radix_sort_dydykin",
+				"Library"
+			]
+		},
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/radix_sort_dydykin/include/radix_sort.h",
+			"labels" : 
+			[
+				"radix_sort_dydykin",
+				"Library"
+			]
+		},
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/radix_sort_dydykin/include/radix_sort_app.h",
+			"labels" : 
+			[
+				"radix_sort_dydykin",
+				"Library"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"radix_sort_dydykin",
+			"Library"
+		],
+		"name" : "lib_radix_sort_dydykin"
+	}
+}

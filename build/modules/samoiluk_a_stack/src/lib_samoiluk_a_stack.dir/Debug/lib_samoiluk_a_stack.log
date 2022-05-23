@@ -1,0 +1,17 @@
+﻿  Building Custom Rule C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/samoiluk_a_stack/src/CMakeLists.txt
+  stack.cpp
+  stack_application.cpp
+C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\samoiluk_a_stack\src\stack_application.cpp(75,41): warning C4101: e: неиспользованная локальная переменная
+C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\samoiluk_a_stack\src\stack_application.cpp(77,37): warning C4101: e: неиспользованная локальная переменная
+C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\samoiluk_a_stack\src\stack_application.cpp(113,45): warning C4244: аргумент: преобразование "double" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\samoiluk_a_stack\src\stack_application.cpp(117,28): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\samoiluk_a_stack\include/stack.h(42,45): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\samoiluk_a_stack\include/stack.h(42): message : во время компиляции функции-члена класс шаблон "Stack<int>::Stack(const std::vector<int,std::allocator<int>> &)"
+C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\samoiluk_a_stack\src\stack_application.cpp(123): message : выполняется компиляция ссылки на экземпляр шаблон функции "Stack<int>::Stack(const std::vector<int,std::allocator<int>> &)"
+C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\samoiluk_a_stack\src\stack_application.cpp(123): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Stack<int>"
+  Создание кода...
+  lib_samoiluk_a_stack.vcxproj -> C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\lib\samoiluk_a_stack.lib

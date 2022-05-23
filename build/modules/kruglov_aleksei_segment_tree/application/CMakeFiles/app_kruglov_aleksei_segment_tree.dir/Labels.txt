@@ -1,0 +1,7 @@
+# Target labels
+ kruglov_aleksei_segment_tree
+ Application
+# Source files and their labels
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/kruglov_aleksei_segment_tree/application/my_app.cpp
+ kruglov_aleksei_segment_tree
+ Application

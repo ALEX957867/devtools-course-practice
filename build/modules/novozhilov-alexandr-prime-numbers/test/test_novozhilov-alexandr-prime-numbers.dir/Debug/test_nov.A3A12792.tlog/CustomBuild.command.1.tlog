@@ -1,0 +1,10 @@
+^C:\USERS\ALEX957867\DESKTOP\D_TOOLS\ZAITSEV-ALEXANDER-LAB3\MODULES\NOVOZHILOV-ALEXANDR-PRIME-NUMBERS\TEST\CMAKELISTS.TXT
+setlocal
+E:\bin\cmake.exe -SC:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3 -BC:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/build --check-stamp-file C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/build/modules/novozhilov-alexandr-prime-numbers/test/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,30 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/zaitsev_a_number_translation/src/number_translation.cpp",
+			"labels" : 
+			[
+				"zaitsev_a_number_translation",
+				"Library"
+			]
+		},
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/zaitsev_a_number_translation/include/number_translation.h",
+			"labels" : 
+			[
+				"zaitsev_a_number_translation",
+				"Library"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"zaitsev_a_number_translation",
+			"Library"
+		],
+		"name" : "lib_zaitsev_a_number_translation"
+	}
+}

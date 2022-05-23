@@ -1,0 +1,30 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/frolov_regular_expressions/test/test_main.cpp",
+			"labels" : 
+			[
+				"frolov_regular_expressions",
+				"Test"
+			]
+		},
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/frolov_regular_expressions/test/test_regular_expressions.cpp",
+			"labels" : 
+			[
+				"frolov_regular_expressions",
+				"Test"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"frolov_regular_expressions",
+			"Test"
+		],
+		"name" : "test_frolov_regular_expressions"
+	}
+}

@@ -1,0 +1,30 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/Polynom_and_Monom_CheremushkinKI/test/test_CHEREMUSHKIN_KIRILL_polynom_monom.cpp",
+			"labels" : 
+			[
+				"Polynom_and_Monom_CheremushkinKI",
+				"Test"
+			]
+		},
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/Polynom_and_Monom_CheremushkinKI/test/test_main.cpp",
+			"labels" : 
+			[
+				"Polynom_and_Monom_CheremushkinKI",
+				"Test"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"Polynom_and_Monom_CheremushkinKI",
+			"Test"
+		],
+		"name" : "test_Polynom_and_Monom_CheremushkinKI"
+	}
+}

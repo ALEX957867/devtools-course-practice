@@ -1,0 +1,22 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/radix_sort_dydykin/application/application.cpp",
+			"labels" : 
+			[
+				"radix_sort_dydykin",
+				"Application"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"radix_sort_dydykin",
+			"Application"
+		],
+		"name" : "app_radix_sort_dydykin"
+	}
+}

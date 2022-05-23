@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/calculate-price/src/application.cpp",
+			"labels" : 
+			[
+				"calculate-price",
+				"Library"
+			]
+		},
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/calculate-price/src/calculate_price.cpp",
+			"labels" : 
+			[
+				"calculate-price",
+				"Library"
+			]
+		},
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/calculate-price/include/application.h",
+			"labels" : 
+			[
+				"calculate-price",
+				"Library"
+			]
+		},
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/calculate-price/include/calculate_price.h",
+			"labels" : 
+			[
+				"calculate-price",
+				"Library"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"calculate-price",
+			"Library"
+		],
+		"name" : "lib_calculate-price"
+	}
+}

@@ -1,0 +1,8 @@
+﻿  Building Custom Rule C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/lakhov-statistics/src/CMakeLists.txt
+  stohastic_variable.cpp
+C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\lakhov-statistics\src\stohastic_variable.cpp(22,36): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\lakhov-statistics\src\stohastic_variable.cpp(30,36): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\lakhov-statistics\src\stohastic_variable.cpp(42,36): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  stohastic_variable_app.cpp
+  Создание кода...
+  lib_lakhov-statistics.vcxproj -> C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\lib\lakhov-statistics.lib

@@ -1,0 +1,10 @@
+# Target labels
+ line_intersection
+ Test
+# Source files and their labels
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/line_intersection/test/test_line_intersection.cpp
+ line_intersection
+ Test
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/line_intersection/test/test_main.cpp
+ line_intersection
+ Test

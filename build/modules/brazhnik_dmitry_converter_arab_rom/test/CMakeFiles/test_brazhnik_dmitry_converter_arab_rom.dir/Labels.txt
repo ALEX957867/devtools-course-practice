@@ -1,0 +1,10 @@
+# Target labels
+ brazhnik_dmitry_converter_arab_rom
+ Test
+# Source files and their labels
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/brazhnik_dmitry_converter_arab_rom/test/test_converter.cpp
+ brazhnik_dmitry_converter_arab_rom
+ Test
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/brazhnik_dmitry_converter_arab_rom/test/test_main.cpp
+ brazhnik_dmitry_converter_arab_rom
+ Test

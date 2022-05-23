@@ -1,0 +1,7 @@
+# Target labels
+ belyaev_volume_figures
+ Application
+# Source files and their labels
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/belyaev_volume_figures/application/application.cpp
+ belyaev_volume_figures
+ Application

@@ -1,0 +1,16 @@
+# Target labels
+ calculate-price
+ Library
+# Source files and their labels
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/calculate-price/src/application.cpp
+ calculate-price
+ Library
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/calculate-price/src/calculate_price.cpp
+ calculate-price
+ Library
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/calculate-price/include/application.h
+ calculate-price
+ Library
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/calculate-price/include/calculate_price.h
+ calculate-price
+ Library

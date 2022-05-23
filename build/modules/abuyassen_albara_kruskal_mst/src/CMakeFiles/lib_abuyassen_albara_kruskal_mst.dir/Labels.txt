@@ -1,0 +1,10 @@
+# Target labels
+ abuyassen_albara_kruskal_mst
+ Library
+# Source files and their labels
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/abuyassen_albara_kruskal_mst/src/Krsukal_MST.cpp
+ abuyassen_albara_kruskal_mst
+ Library
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/abuyassen_albara_kruskal_mst/include/Kruskal_MST.h
+ abuyassen_albara_kruskal_mst
+ Library

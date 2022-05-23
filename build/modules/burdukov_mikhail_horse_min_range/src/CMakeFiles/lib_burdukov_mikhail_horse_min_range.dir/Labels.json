@@ -1,0 +1,30 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/burdukov_mikhail_horse_min_range/src/horse_min_range.cpp",
+			"labels" : 
+			[
+				"burdukov_mikhail_horse_min_range",
+				"Library"
+			]
+		},
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/burdukov_mikhail_horse_min_range/include/horse_min_range.h",
+			"labels" : 
+			[
+				"burdukov_mikhail_horse_min_range",
+				"Library"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"burdukov_mikhail_horse_min_range",
+			"Library"
+		],
+		"name" : "lib_burdukov_mikhail_horse_min_range"
+	}
+}

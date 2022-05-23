@@ -1,0 +1,5 @@
+﻿  Building Custom Rule C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/vector3d_operations/src/CMakeLists.txt
+  vector3d_operations.cpp
+C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\vector3d_operations\src\vector3d_operations.cpp(12,17): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
+C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\vector3d_operations\src\vector3d_operations.cpp(18,17): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
+  lib_vector3d_operations.vcxproj -> C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\lib\vector3d_operations.lib

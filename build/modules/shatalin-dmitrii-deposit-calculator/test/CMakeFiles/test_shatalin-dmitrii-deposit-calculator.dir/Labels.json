@@ -1,0 +1,30 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/shatalin-dmitrii-deposit-calculator/test/test.cpp",
+			"labels" : 
+			[
+				"shatalin-dmitrii-deposit-calculator",
+				"Test"
+			]
+		},
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/shatalin-dmitrii-deposit-calculator/test/test_main.cpp",
+			"labels" : 
+			[
+				"shatalin-dmitrii-deposit-calculator",
+				"Test"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"shatalin-dmitrii-deposit-calculator",
+			"Test"
+		],
+		"name" : "test_shatalin-dmitrii-deposit-calculator"
+	}
+}

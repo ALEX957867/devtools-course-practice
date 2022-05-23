@@ -1,0 +1,10 @@
+# Target labels
+ frolov_regular_expressions
+ Library
+# Source files and their labels
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/frolov_regular_expressions/src/regular_expressions.cpp
+ frolov_regular_expressions
+ Library
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/frolov_regular_expressions/include/regular_expressions.h
+ frolov_regular_expressions
+ Library

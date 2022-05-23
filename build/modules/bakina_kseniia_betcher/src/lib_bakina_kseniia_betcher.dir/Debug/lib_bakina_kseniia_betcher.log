@@ -1,0 +1,11 @@
+﻿  Building Custom Rule C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/bakina_kseniia_betcher/src/CMakeLists.txt
+  bakina_kseniia_betcher.cpp
+C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\bakina_kseniia_betcher\src\bakina_kseniia_betcher.cpp(11,25): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\bakina_kseniia_betcher\src\bakina_kseniia_betcher.cpp(22,30): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\bakina_kseniia_betcher\src\bakina_kseniia_betcher.cpp(34,32): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\bakina_kseniia_betcher\src\bakina_kseniia_betcher.cpp(34,57): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\bakina_kseniia_betcher\src\bakina_kseniia_betcher.cpp(62,40): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\bakina_kseniia_betcher\src\bakina_kseniia_betcher.cpp(63,38): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  betcher_app.cpp
+  Создание кода...
+  lib_bakina_kseniia_betcher.vcxproj -> C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\lib\bakina_kseniia_betcher.lib

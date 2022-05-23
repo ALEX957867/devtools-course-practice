@@ -85,24 +85,6 @@ set_tests_properties (${prefix}_get_copy PROPERTIES
     LABELS "${MODULE}")
 
 add_test(
-    NAME ${prefix}_get_move_copy
-    COMMAND ${APPLICATION} --move_copy 1 2 3
-)
-
-set_tests_properties (${prefix}_get_move_copy PROPERTIES
-    PASS_REGULAR_EXPRESSION "success"
-    LABELS "${MODULE}")
-
-add_test(
-    NAME ${prefix}_get_move_operator=
-    COMMAND ${APPLICATION} --move_operator= 1 2 3
-)
-
-set_tests_properties (${prefix}_get_move_operator= PROPERTIES
-    PASS_REGULAR_EXPRESSION "success"
-    LABELS "${MODULE}")
-
-add_test(
     NAME ${prefix}_get_operator=
     COMMAND ${APPLICATION} --operator= 1 2 3
 )

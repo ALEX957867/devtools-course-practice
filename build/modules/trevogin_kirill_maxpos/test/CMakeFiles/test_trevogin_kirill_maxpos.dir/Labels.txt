@@ -1,0 +1,10 @@
+# Target labels
+ trevogin_kirill_maxpos
+ Test
+# Source files and their labels
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/trevogin_kirill_maxpos/test/test.cpp
+ trevogin_kirill_maxpos
+ Test
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/trevogin_kirill_maxpos/test/test_main.cpp
+ trevogin_kirill_maxpos
+ Test

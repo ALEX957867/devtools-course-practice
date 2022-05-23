@@ -1,0 +1,10 @@
+# Target labels
+ gudkov_a_common_posled
+ Test
+# Source files and their labels
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/gudkov_a_common_posled/test/test.cpp
+ gudkov_a_common_posled
+ Test
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/gudkov_a_common_posled/test/test_main.cpp
+ gudkov_a_common_posled
+ Test

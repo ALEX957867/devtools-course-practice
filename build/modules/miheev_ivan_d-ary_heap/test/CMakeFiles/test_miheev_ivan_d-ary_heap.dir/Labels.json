@@ -1,0 +1,30 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/miheev_ivan_d-ary_heap/test/test_heap.cpp",
+			"labels" : 
+			[
+				"miheev_ivan_d-ary_heap",
+				"Test"
+			]
+		},
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/miheev_ivan_d-ary_heap/test/test_main.cpp",
+			"labels" : 
+			[
+				"miheev_ivan_d-ary_heap",
+				"Test"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"miheev_ivan_d-ary_heap",
+			"Test"
+		],
+		"name" : "test_miheev_ivan_d-ary_heap"
+	}
+}

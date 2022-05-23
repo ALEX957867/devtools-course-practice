@@ -1,0 +1,30 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/krivosheev_bit_array/src/bit_array.cpp",
+			"labels" : 
+			[
+				"krivosheev_bit_array",
+				"Library"
+			]
+		},
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/krivosheev_bit_array/include/bit_array.h",
+			"labels" : 
+			[
+				"krivosheev_bit_array",
+				"Library"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"krivosheev_bit_array",
+			"Library"
+		],
+		"name" : "lib_krivosheev_bit_array"
+	}
+}

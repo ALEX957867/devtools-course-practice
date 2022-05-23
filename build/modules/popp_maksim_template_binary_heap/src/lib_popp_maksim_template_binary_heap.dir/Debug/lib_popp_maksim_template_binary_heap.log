@@ -1,0 +1,21 @@
+﻿  Building Custom Rule C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/popp_maksim_template_binary_heap/src/CMakeLists.txt
+  template_heap.cpp
+  template_heap_app.cpp
+C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\popp_maksim_template_binary_heap\include/template_heap.h(48,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\popp_maksim_template_binary_heap\include/template_heap.h(47): message : во время компиляции функции-члена класс шаблон "void THeap<float>::Emersion(void)"
+C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\popp_maksim_template_binary_heap\include/template_heap.h(43): message : выполняется компиляция ссылки на экземпляр шаблон функции "void THeap<float>::Emersion(void)"
+C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\popp_maksim_template_binary_heap\include/template_heap.h(41): message : во время компиляции функции-члена класс шаблон "void THeap<float>::Push(T)"
+          with
+          [
+              T=float
+          ]
+C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\popp_maksim_template_binary_heap\include/template_heap.h(36): message : выполняется компиляция ссылки на экземпляр шаблон функции "void THeap<float>::Push(T)"
+          with
+          [
+              T=float
+          ]
+C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\popp_maksim_template_binary_heap\include/template_heap.h(34): message : во время компиляции функции-члена класс шаблон "THeap<float>::THeap(const std::vector<float,std::allocator<float>> &)"
+C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\popp_maksim_template_binary_heap\src\template_heap_app.cpp(52): message : выполняется компиляция ссылки на экземпляр шаблон функции "THeap<float>::THeap(const std::vector<float,std::allocator<float>> &)"
+C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\popp_maksim_template_binary_heap\src\template_heap_app.cpp(52): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "THeap<float>"
+  Создание кода...
+  lib_popp_maksim_template_binary_heap.vcxproj -> C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\lib\popp_maksim_template_binary_heap.lib

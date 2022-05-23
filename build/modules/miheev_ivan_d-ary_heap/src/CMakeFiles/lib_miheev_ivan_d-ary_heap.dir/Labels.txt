@@ -1,0 +1,16 @@
+# Target labels
+ miheev_ivan_d-ary_heap
+ Library
+# Source files and their labels
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/miheev_ivan_d-ary_heap/src/DHeap.cpp
+ miheev_ivan_d-ary_heap
+ Library
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/miheev_ivan_d-ary_heap/src/DHeap_application.cpp
+ miheev_ivan_d-ary_heap
+ Library
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/miheev_ivan_d-ary_heap/include/DHeap.h
+ miheev_ivan_d-ary_heap
+ Library
+C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/miheev_ivan_d-ary_heap/include/DHeap_application.h
+ miheev_ivan_d-ary_heap
+ Library

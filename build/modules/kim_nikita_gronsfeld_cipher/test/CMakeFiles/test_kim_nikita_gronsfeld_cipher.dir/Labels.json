@@ -1,0 +1,30 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/kim_nikita_gronsfeld_cipher/test/test.cpp",
+			"labels" : 
+			[
+				"kim_nikita_gronsfeld_cipher",
+				"Test"
+			]
+		},
+		{
+			"file" : "C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/kim_nikita_gronsfeld_cipher/test/test_main.cpp",
+			"labels" : 
+			[
+				"kim_nikita_gronsfeld_cipher",
+				"Test"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"kim_nikita_gronsfeld_cipher",
+			"Test"
+		],
+		"name" : "test_kim_nikita_gronsfeld_cipher"
+	}
+}
