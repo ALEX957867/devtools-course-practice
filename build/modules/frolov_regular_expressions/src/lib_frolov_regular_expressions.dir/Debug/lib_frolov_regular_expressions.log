@@ -1,7 +1,0 @@
-﻿  Building Custom Rule C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/frolov_regular_expressions/src/CMakeLists.txt
-  regular_expressions.cpp
-C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\frolov_regular_expressions\src\regular_expressions.cpp(15,34): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
-C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\frolov_regular_expressions\src\regular_expressions.cpp(18,40): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
-C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\frolov_regular_expressions\src\regular_expressions.cpp(22,37): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
-C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\frolov_regular_expressions\src\regular_expressions.cpp(24,34): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
-  lib_frolov_regular_expressions.vcxproj -> C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\lib\frolov_regular_expressions.lib

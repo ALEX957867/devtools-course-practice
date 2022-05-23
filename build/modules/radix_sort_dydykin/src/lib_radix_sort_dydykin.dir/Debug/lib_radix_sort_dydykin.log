@@ -1,9 +1,0 @@
-﻿  Building Custom Rule C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/radix_sort_dydykin/src/CMakeLists.txt
-  radix_sort.cpp
-C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\radix_sort_dydykin\src\radix_sort.cpp(9,26): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\radix_sort_dydykin\src\radix_sort.cpp(31,26): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\radix_sort_dydykin\src\radix_sort.cpp(32,28): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\radix_sort_dydykin\src\radix_sort.cpp(61,27): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-  radix_sort_app.cpp
-  Создание кода...
-  lib_radix_sort_dydykin.vcxproj -> C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\lib\radix_sort_dydykin.lib

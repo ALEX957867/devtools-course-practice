@@ -1,7 +1,0 @@
-# Target labels
- polygon_area
- Application
-# Source files and their labels
-C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/polygon_area/application/polygon_area.cpp
- polygon_area
- Application

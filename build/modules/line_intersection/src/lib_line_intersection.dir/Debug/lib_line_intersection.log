@@ -1,6 +1,0 @@
-﻿  Building Custom Rule C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/line_intersection/src/CMakeLists.txt
-  line_intersection.cpp
-  line_intersection_app.cpp
-C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\line_intersection\src\line_intersection_app.cpp(33,34): warning C4101: e: неиспользованная локальная переменная
-  Создание кода...
-  lib_line_intersection.vcxproj -> C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\lib\line_intersection.lib

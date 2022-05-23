@@ -1,7 +1,0 @@
-# Target labels
- popp_maksim_template_binary_heap
- Application
-# Source files and their labels
-C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/popp_maksim_template_binary_heap/application/heap_app.cpp
- popp_maksim_template_binary_heap
- Application

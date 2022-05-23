@@ -1,7 +1,0 @@
-# Target labels
- miheev_ivan_d-ary_heap
- Application
-# Source files and their labels
-C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/miheev_ivan_d-ary_heap/application/application.cpp
- miheev_ivan_d-ary_heap
- Application

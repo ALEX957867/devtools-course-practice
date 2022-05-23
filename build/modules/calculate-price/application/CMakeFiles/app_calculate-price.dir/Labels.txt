@@ -1,7 +1,0 @@
-# Target labels
- calculate-price
- Application
-# Source files and their labels
-C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/calculate-price/application/application.cpp
- calculate-price
- Application

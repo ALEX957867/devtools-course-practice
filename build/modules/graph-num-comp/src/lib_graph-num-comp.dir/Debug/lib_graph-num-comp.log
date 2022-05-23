@@ -1,4 +1,0 @@
-﻿  Building Custom Rule C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/graph-num-comp/src/CMakeLists.txt
-  num_comp.cpp
-C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\graph-num-comp\src\num_comp.cpp(24,30): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
-  lib_graph-num-comp.vcxproj -> C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\lib\graph-num-comp.lib

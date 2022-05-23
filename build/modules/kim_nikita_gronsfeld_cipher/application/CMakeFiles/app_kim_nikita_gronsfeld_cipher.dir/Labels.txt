@@ -1,7 +1,0 @@
-# Target labels
- kim_nikita_gronsfeld_cipher
- Application
-# Source files and their labels
-C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/kim_nikita_gronsfeld_cipher/application/application.cpp
- kim_nikita_gronsfeld_cipher
- Application

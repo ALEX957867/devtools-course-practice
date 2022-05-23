@@ -1,7 +1,0 @@
-﻿  Building Custom Rule C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/alimov_mike_ceacer_cifir/src/CMakeLists.txt
-  alimov_mike_ceacer_cifir.cpp
-C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\alimov_mike_ceacer_cifir\src\alimov_mike_ceacer_cifir.cpp(16,25): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\alimov_mike_ceacer_cifir\src\alimov_mike_ceacer_cifir.cpp(33,26): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-  alimov_mike_ceacer_cifir_application.cpp
-  Создание кода...
-  lib_alimov_mike_ceacer_cifir.vcxproj -> C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\lib\alimov_mike_ceacer_cifir.lib

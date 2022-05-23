@@ -1,6 +1,0 @@
-﻿  Building Custom Rule C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/korobeinikov_string_calculator/src/CMakeLists.txt
-  string_calculator.cpp
-C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\korobeinikov_string_calculator\src\string_calculator.cpp(233,19): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
-  string_calculator_app.cpp
-  Создание кода...
-  lib_korobeinikov_string_calculator.vcxproj -> C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\lib\korobeinikov_string_calculator.lib

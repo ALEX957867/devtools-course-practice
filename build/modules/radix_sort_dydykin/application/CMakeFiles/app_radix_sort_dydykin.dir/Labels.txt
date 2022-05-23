@@ -1,7 +1,0 @@
-# Target labels
- radix_sort_dydykin
- Application
-# Source files and their labels
-C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/radix_sort_dydykin/application/application.cpp
- radix_sort_dydykin
- Application

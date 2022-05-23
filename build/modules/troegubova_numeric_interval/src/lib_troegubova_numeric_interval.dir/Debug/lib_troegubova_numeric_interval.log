@@ -1,7 +1,0 @@
-﻿  Building Custom Rule C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/troegubova_numeric_interval/src/CMakeLists.txt
-  numeric_interval.cpp
-C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\troegubova_numeric_interval\src\numeric_interval.cpp(23,39): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\troegubova_numeric_interval\src\numeric_interval.cpp(161,35): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-  numeric_interval_app.cpp
-  Создание кода...
-  lib_troegubova_numeric_interval.vcxproj -> C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\lib\troegubova_numeric_interval.lib

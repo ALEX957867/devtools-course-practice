@@ -1,6 +1,0 @@
-﻿  Building Custom Rule C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/polygon_area/src/CMakeLists.txt
-  polygon_area.cpp
-  polygon_area_app.cpp
-C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\modules\polygon_area\src\polygon_area_app.cpp(38,34): warning C4101: e: неиспользованная локальная переменная
-  Создание кода...
-  lib_polygon_area.vcxproj -> C:\Users\ALEX957867\Desktop\d_tools\Zaitsev-Alexander-lab3\build\lib\polygon_area.lib

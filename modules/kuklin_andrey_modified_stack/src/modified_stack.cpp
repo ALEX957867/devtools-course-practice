@@ -61,7 +61,7 @@ void ModifiedStack::Resize() {
   std::pair<int, int>* newMas = new std::pair<int, int>[maxSize];
   for (size_t i = 0; i < size; ++i) newMas[i] = mas[i];
 
-  delete mas;
+  delete[] mas;
   mas = newMas;
 }
 

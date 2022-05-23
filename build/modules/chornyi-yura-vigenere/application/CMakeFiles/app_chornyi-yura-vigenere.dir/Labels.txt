@@ -1,7 +1,0 @@
-# Target labels
- chornyi-yura-vigenere
- Application
-# Source files and their labels
-C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/chornyi-yura-vigenere/application/vigenere_cipher.cpp
- chornyi-yura-vigenere
- Application

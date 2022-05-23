@@ -1,7 +1,0 @@
-# Target labels
- trukhanov_a_queue
- Application
-# Source files and their labels
-C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/trukhanov_a_queue/application/application.cpp
- trukhanov_a_queue
- Application
