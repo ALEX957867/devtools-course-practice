@@ -20,7 +20,7 @@ std::string ModifiedStackApp::operator()(int argc, const char** argv) {
   if (std::string(argv[i]) == "--clear" || std::string(argv[i]) == "-c") {
     int i = 2;
     while (static_cast<int>(argv[i] != 0)) {
-      ms.Push(reinterpret_cast<int>(argv[i]));
+      ms.Push(static_cast<int>(*argv[i]));
       i++;
     }
     ms.Clear();
@@ -30,7 +30,7 @@ std::string ModifiedStackApp::operator()(int argc, const char** argv) {
   if (std::string(argv[i]) == "--empty" || std::string(argv[i]) == "-e") {
     int i = 2;
     while (static_cast<int>(argv[i] != 0)) {
-      ms.Push(reinterpret_cast<int>(argv[i]));
+      ms.Push(static_cast<int>(*argv[i]));
       i++;
     }
     if (ms.Empty()) return "success";
@@ -39,7 +39,7 @@ std::string ModifiedStackApp::operator()(int argc, const char** argv) {
   if (std::string(argv[i]) == "--full" || std::string(argv[i]) == "-f") {
     int i = 2;
     while (static_cast<int>(argv[i] != 0)) {
-      ms.Push(reinterpret_cast<int>(argv[i]));
+      ms.Push(static_cast<int>(*argv[i]));
       i++;
     }
     if (ms.Full()) return "success";
@@ -48,7 +48,7 @@ std::string ModifiedStackApp::operator()(int argc, const char** argv) {
   if (std::string(argv[i]) == "--minelem" || std::string(argv[i]) == "-m") {
     int i = 2;
     while (static_cast<int>(argv[i] != 0)) {
-      ms.Push(reinterpret_cast<int>(argv[i]));
+      ms.Push(static_cast<int>(*argv[i]));
       i++;
     }
     std::cout << ms.MinElem() << "\n";
@@ -58,7 +58,7 @@ std::string ModifiedStackApp::operator()(int argc, const char** argv) {
   if (std::string(argv[i]) == "--size" || std::string(argv[i]) == "-s") {
     int i = 2;
     while (static_cast<int>(argv[i] != 0)) {
-      ms.Push(reinterpret_cast<int>(argv[i]));
+      ms.Push(static_cast<int>(*argv[i]));
       i++;
     }
     ms.Size();
@@ -71,7 +71,7 @@ std::string ModifiedStackApp::operator()(int argc, const char** argv) {
     ModifiedStack ms2;
     int i = 2;
     while (static_cast<int>(argv[i] != 0)) {
-      ms.Push(reinterpret_cast<int>(argv[i]));
+      ms.Push(static_cast<int>(*argv[i]));
       i++;
     }
     ms = ms2;
@@ -82,7 +82,7 @@ std::string ModifiedStackApp::operator()(int argc, const char** argv) {
     int i = 2;
     while (static_cast<int>(argv[i] != 0)) {
       std::cout << argv[i] << "\t";
-      ms.Push(reinterpret_cast<int>(argv[i]));
+      ms.Push(static_cast<int>(*argv[i]));
       i++;
     }
     if (ms.Size()) return "success";
@@ -91,7 +91,7 @@ std::string ModifiedStackApp::operator()(int argc, const char** argv) {
   if (std::string(argv[i]) == "--pop" || std::string(argv[i]) == "-p") {
     int i = 2;
     while (static_cast<int>(argv[i] != 0)) {
-      ms.Push(reinterpret_cast<int>(argv[i]));
+      ms.Push(static_cast<int>(*argv[i]));
       i++;
     }
     ms.Pop();
@@ -101,7 +101,7 @@ std::string ModifiedStackApp::operator()(int argc, const char** argv) {
   if (std::string(argv[i]) == "--top" || std::string(argv[i]) == "-t") {
     int i = 2;
     while (static_cast<int>(argv[i] != 0)) {
-      ms.Push(reinterpret_cast<int>(argv[i]));
+      ms.Push(static_cast<int>(*argv[i]));
       i++;
     }
     std::cout << ms.Top() << "\n";
@@ -112,7 +112,7 @@ std::string ModifiedStackApp::operator()(int argc, const char** argv) {
     ModifiedStack ms2;
     int i = 2;
     while (static_cast<int>(argv[i] != 0)) {
-      ms.Push(reinterpret_cast<int>(argv[i]));
+      ms.Push(static_cast<int>(*argv[i]));
       i++;
     }
     ms2 = ms;
@@ -123,7 +123,7 @@ std::string ModifiedStackApp::operator()(int argc, const char** argv) {
     ModifiedStack ms2;
     int i = 2;
     while (static_cast<int>(argv[i] != 0)) {
-      ms.Push(reinterpret_cast<int>(argv[i]));
+      ms.Push(static_cast<int>(*argv[i]));
       i++;
     }
     if (ms2 != ms) return "success";
@@ -133,7 +133,7 @@ std::string ModifiedStackApp::operator()(int argc, const char** argv) {
     ModifiedStack ms2;
     int i = 2;
     while (static_cast<int>(argv[i] != 0)) {
-      ms.Push(reinterpret_cast<int>(argv[i]));
+      ms.Push(static_cast<int>(*argv[i]));
       i++;
     }
     ms2 = ms;
