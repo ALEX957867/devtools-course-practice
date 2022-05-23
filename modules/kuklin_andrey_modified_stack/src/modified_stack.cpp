@@ -1,10 +1,11 @@
 // Copyright 2022 Kuklin Andrey
 
+#include "include/modified_stack.h"
+
 #include <gtest/gtest.h>
+
 #include <algorithm>
 #include <utility>
-
-#include "include/modified_stack.h"
 
 ModifiedStack::ModifiedStack(size_t _maxSize) : size(0), maxSize(_maxSize) {
   if (_maxSize <= 0) throw _maxSize;
@@ -30,18 +31,14 @@ ModifiedStack::ModifiedStack(ModifiedStack&& mstack)
   mstack.size = mstack.maxSize = 0;
 }
 
-bool ModifiedStack::Empty() const {
-  return size == 0;
-}
+bool ModifiedStack::Empty() const { return size == 0; }
 
-bool ModifiedStack::Full() const {
-  return size == maxSize;
-}
+bool ModifiedStack::Full() const { return size == maxSize; }
 
 void ModifiedStack::Push(int elem) {
   if (Full()) Resize();
 
-  size_t minelem = Empty() ? elem : std::min(elem, mas[size-1].second);
+  size_t minelem = Empty() ? elem : std::min(elem, mas[size - 1].second);
   mas[size] = std::make_pair(elem, minelem);
   ++size;
 }
@@ -58,14 +55,9 @@ void ModifiedStack::Pop() {
   --size;
 }
 
-size_t ModifiedStack::Size() const {
-  return size; }
+size_t ModifiedStack::Size() const { return size; }
 
-
-
-void ModifiedStack::Clear() {
-  size = 0;
-}
+void ModifiedStack::Clear() { size = 0; }
 
 int ModifiedStack::MinElem() const {
   if (Empty()) throw size;
@@ -120,7 +112,3 @@ bool ModifiedStack::operator==(const ModifiedStack& mstack) const {
 bool ModifiedStack::operator!=(const ModifiedStack& mstack) const {
   return !(*this == mstack);
 }
-//void ModifiedStack::showmstack() {
-//  for (int i = 0; i < Size(); i++) std::cout << mas[i].first<<" ";
-//  if (Size() == 0) std::cout << "#";
-//}

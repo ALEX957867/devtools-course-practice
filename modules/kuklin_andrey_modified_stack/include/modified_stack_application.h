@@ -5,7 +5,6 @@
 
 #include <sstream>
 #include <string>
-//#include <vector>
 
 #include "include/modified_stack.h"
 
@@ -13,6 +12,7 @@ class ModifiedStackApp {
  public:
   ModifiedStackApp() = default;
   std::string operator()(int argc, const char** argv);
+
  private:
   std::string help();
   std::string argument_error();
