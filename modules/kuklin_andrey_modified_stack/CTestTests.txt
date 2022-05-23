@@ -13,6 +13,14 @@ set_tests_properties (${prefix}_run_program PROPERTIES
     LABELS "${MODULE}")
 
 add_test(
+    NAME ${prefix}_argv_z
+    COMMAND ${APPLICATION} -z
+)
+set_tests_properties (${prefix}_argv_z PROPERTIES
+    PASS_REGULAR_EXPRESSION "_no_success_"
+    LABELS "${MODULE}")
+
+add_test(
     NAME ${prefix}_get_help
     COMMAND ${APPLICATION} --help
 )
@@ -32,19 +40,10 @@ set_tests_properties (${prefix}_get_clear PROPERTIES
 
 add_test(
     NAME ${prefix}_get_empty
-    COMMAND ${APPLICATION} -e 2 3 4
+    COMMAND ${APPLICATION} -e
 )
 
 set_tests_properties (${prefix}_get_empty PROPERTIES
-    PASS_REGULAR_EXPRESSION "success"
-    LABELS "${MODULE}")
-
-add_test(
-    NAME ${prefix}_get_full
-    COMMAND ${APPLICATION} -f 2 3 4 5 6 7 8 9 1
-)
-
-set_tests_properties (${prefix}_get_full PROPERTIES
     PASS_REGULAR_EXPRESSION "success"
     LABELS "${MODULE}")
 
