@@ -137,3 +137,11 @@ add_test(
 set_tests_properties (${prefix}_get_top PROPERTIES
     PASS_REGULAR_EXPRESSION "success"
     LABELS "${MODULE}")
+
+add_test(
+    NAME ${prefix}_t
+    COMMAND ${APPLICATION} -z
+)
+set_tests_properties (${prefix}_t PROPERTIES
+    PASS_REGULAR_EXPRESSION ""_no_success_""
+    LABELS "${MODULE}")
