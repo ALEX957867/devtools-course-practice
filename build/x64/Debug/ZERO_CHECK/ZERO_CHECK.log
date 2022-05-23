@@ -1,1 +1,101 @@
 ﻿  Checking Build System
+  CMake is re-running because C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/build/modules/kuklin_andrey_modified_stack/CMakeFiles/generate.stamp is out-of-date.
+    the file 'C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/modules/kuklin_andrey_modified_stack/CTestTests.txt'
+    is newer than 'C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/build/modules/kuklin_andrey_modified_stack/CMakeFiles/generate.stamp.depend'
+    result='-1'
+  CMake Deprecation Warning at CMakeLists.txt:1 (cmake_minimum_required):
+    Compatibility with CMake < 2.8.12 will be removed from a future version of
+    CMake.
+  
+    Update the VERSION argument <min> value or use a ...<max> suffix to tell
+    CMake that the project does not need compatibility with older versions.
+  
+  
+  -- Selecting Windows SDK version 10.0.18362.0 to target Windows 10.0.17763.
+  CMake Warning (dev) at CMakeLists.txt:43 (if):
+    Policy CMP0054 is not set: Only interpret if() arguments as variables or
+    keywords when unquoted.  Run "cmake --help-policy CMP0054" for policy
+    details.  Use the cmake_policy command to set the policy and suppress this
+    warning.
+  
+    Quoted variables like "MSVC" will no longer be dereferenced when the policy
+    is set to NEW.  Since the policy is not set the OLD behavior will be used.
+  This warning is for project developers.  Use -Wno-dev to suppress it.
+  
+  -- 
+  -- General configuration for DevTools
+  -- ==================================
+  -- 
+  --    Compiler:      MSVC
+  --    Configuration: 
+  --    Coverage:      OFF
+  --    Detected modules:
+  --     - Polynom_and_Monom_CheremushkinKI
+  --     - abuyassen_albara_kruskal_mst
+  --     - alimov_mike_ceacer_cifir
+  --     - bakina_kseniia_betcher
+  --     - balova_e_interpolation_search
+  --     - belyaev_volume_figures
+  --     - borisov_m_pos_systems_calculator
+  --     - brazhnik_dmitry_converter_arab_rom
+  --     - burdukov_mikhail_horse_min_range
+  --     - butescu_livenstein_distatnce
+  --     - calculate-price
+  --     - chornyi-yura-vigenere
+  --     - complex-number
+  --     - conways_life
+  --     - deicstra_algorithm
+  --     - elanski_alexandr_Euler_function
+  --     - ermakov_pavel_tringle_params
+  --     - frolov_regular_expressions
+  --     - galindo_30_rule
+  --     - gordeev_avl_tree
+  --     - graph-num-comp
+  --     - graph_diameter
+  --     - groshev_point_in_triangle
+  --     - gudkov_a_common_posled
+  --     - ivanov_a_set
+  --     - kamenev_hanoi_tower
+  --     - kazhaeva_complex
+  --     - kim_nikita_gronsfeld_cipher
+  --     - korobeinikov_string_calculator
+  --     - krapivenskikh_stepan_leftist_heap
+  --     - krivosheev_bit_array
+  --     - kruglov_aleksei_segment_tree
+  --     - kuklin_andrey_modified_stack
+  --     - kurguzikov_wave-algorithm
+  --     - lakhov-statistics
+  --     - leftist-heap
+  --     - line_intersection
+  --     - lukashuk_d_pg
+  --     - miheev_ivan_d-ary_heap
+  --     - myasnikova_pseudographics
+  --     - novozhilov-alexandr-prime-numbers
+  --     - olynin_a_cross_line_and_plane
+  --     - oskin_g_equation
+  --     - pichugin_i_sort
+  --     - polygon_area
+  --     - popp_maksim_template_binary_heap
+  --     - pyatckin_nikolay_rb_tree
+  --     - radix_sort_dydykin
+  --     - remizova_matrix
+  --     - samoiluk_a_stack
+  --     - shatalin-dmitrii-deposit-calculator
+  --     - shelepin_n_simpson
+  --     - shurygina_rev_pol_notat
+  --     - soldatov_figure_area
+  --     - trevogin_kirill_maxpos
+  --     - troegubova_numeric_interval
+  --     - trukhanov_a_queue
+  --     - ustiuzhanin_n_hashmap
+  --     - vanyushkov_m_ratio
+  --     - vector-distances
+  --     - vector3d_operations
+  --     - yashin_kirill_binary_search
+  --     - zaitsev_a_number_translation
+  --     - zaitseva_k_priority_queue
+  --     - zarubin_mikhail_binary_tree
+  -- 
+  -- Configuring done
+  -- Generating done
+  -- Build files have been written to: C:/Users/ALEX957867/Desktop/d_tools/Zaitsev-Alexander-lab3/build
