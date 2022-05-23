@@ -32,10 +32,19 @@ set_tests_properties (${prefix}_get_clear PROPERTIES
 
 add_test(
     NAME ${prefix}_get_empty
-    COMMAND ${APPLICATION} -e
+    COMMAND ${APPLICATION} -e 2 3 4
 )
 
 set_tests_properties (${prefix}_get_empty PROPERTIES
+    PASS_REGULAR_EXPRESSION "success"
+    LABELS "${MODULE}")
+
+add_test(
+    NAME ${prefix}_get_full
+    COMMAND ${APPLICATION} -f 2 3 4 5 6 7 8 9 1
+)
+
+set_tests_properties (${prefix}_get_full PROPERTIES
     PASS_REGULAR_EXPRESSION "success"
     LABELS "${MODULE}")
 

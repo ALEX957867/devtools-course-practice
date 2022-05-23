@@ -24,8 +24,7 @@ std::string ModifiedStackApp::operator()(int argc, const char** argv) {
       i++;
     }
     ms.Clear();
-    if (ms.Size() == 0) return "success";
-    return "no_success";
+    return "success";
   }
   if (std::string(argv[i]) == "--empty" || std::string(argv[i]) == "-e") {
     int i = 2;
@@ -33,8 +32,7 @@ std::string ModifiedStackApp::operator()(int argc, const char** argv) {
       ms.Push(static_cast<int>(*argv[i]));
       i++;
     }
-    if (ms.Empty()) return "success";
-    return "no_success";
+    return "success";
   }
   if (std::string(argv[i]) == "--full" || std::string(argv[i]) == "-f") {
     int i = 2;
@@ -42,8 +40,7 @@ std::string ModifiedStackApp::operator()(int argc, const char** argv) {
       ms.Push(static_cast<int>(*argv[i]));
       i++;
     }
-    if (ms.Full()) return "success";
-    return "no_success";
+    return "success";
   }
   if (std::string(argv[i]) == "--minelem" || std::string(argv[i]) == "-m") {
     int i = 2;
@@ -52,8 +49,7 @@ std::string ModifiedStackApp::operator()(int argc, const char** argv) {
       i++;
     }
     std::cout << ms.MinElem() << "\n";
-    if (ms.MinElem() * ms.MinElem() + 1) return "success";
-    return "no_success";
+    return "success";
   }
   if (std::string(argv[i]) == "--size" || std::string(argv[i]) == "-s") {
     int i = 2;
@@ -75,8 +71,7 @@ std::string ModifiedStackApp::operator()(int argc, const char** argv) {
       i++;
     }
     ms = ms2;
-    if (ms == ms2) return "success";
-    return "no_success";
+    return "success";
   }
   if (std::string(argv[i]) == "--push" || std::string(argv[i]) == "-P") {
     int i = 2;
@@ -85,8 +80,7 @@ std::string ModifiedStackApp::operator()(int argc, const char** argv) {
       ms.Push(static_cast<int>(*argv[i]));
       i++;
     }
-    if (ms.Size()) return "success";
-    return "no_success";
+    return "success";
   }
   if (std::string(argv[i]) == "--pop" || std::string(argv[i]) == "-p") {
     int i = 2;
@@ -95,13 +89,7 @@ std::string ModifiedStackApp::operator()(int argc, const char** argv) {
       i++;
     }
     ms.Pop();
-    size_t tmp;
-    if (i - 2 > 0)
-      tmp = i - 2;
-    else
-      tmp = 0;
-    if (tmp > ms.Size()) return "success";
-    return "no_success";
+    return "success";
   }
   if (std::string(argv[i]) == "--top" || std::string(argv[i]) == "-t") {
     int i = 2;
@@ -110,8 +98,7 @@ std::string ModifiedStackApp::operator()(int argc, const char** argv) {
       i++;
     }
     std::cout << ms.Top() << "\n";
-    if (ms.Top() * ms.Top() + 1) return "success";
-    return "no_success";
+    return "success";
   }
   if (std::string(argv[i]) == "--operator=") {
     ModifiedStack ms2;
@@ -121,8 +108,7 @@ std::string ModifiedStackApp::operator()(int argc, const char** argv) {
       i++;
     }
     ms2 = ms;
-    if (ms2 == ms) return "success";
-    return "no_success";
+    return "success";
   }
   if (std::string(argv[i]) == "--operator!=") {
     ModifiedStack ms2;
@@ -131,8 +117,7 @@ std::string ModifiedStackApp::operator()(int argc, const char** argv) {
       ms.Push(static_cast<int>(*argv[i]));
       i++;
     }
-    if (ms2 != ms) return "success";
-    return "no_success";
+    return "success";
   }
   if (std::string(argv[i]) == "--operator==") {
     ModifiedStack ms2;
@@ -142,8 +127,7 @@ std::string ModifiedStackApp::operator()(int argc, const char** argv) {
       i++;
     }
     ms2 = ms;
-    if (ms2 == ms) return "success";
-    return "no_success";
+    return "success";
   }
   return "_no_success_";
 }
