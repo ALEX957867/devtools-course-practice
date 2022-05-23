@@ -95,7 +95,12 @@ std::string ModifiedStackApp::operator()(int argc, const char** argv) {
       i++;
     }
     ms.Pop();
-    if (i - 2 > ms.Size()) return "success";
+    size_t tmp;
+    if (i - 2 > 0)
+      tmp = i - 2;
+    else
+      tmp = 0;
+    if (tmp > ms.Size()) return "success";
     return "no_success";
   }
   if (std::string(argv[i]) == "--top" || std::string(argv[i]) == "-t") {
